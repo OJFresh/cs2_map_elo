@@ -12,4 +12,3 @@ class Match:
     @property
     def winner(self):
         return self.team_a if self.rounds_a > self.rounds_b else self.team_b
-
