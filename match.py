@@ -1,4 +1,4 @@
-from team import Team
+f
 elo_dict = {
     'Spirit': 100,
     'Vitality': 100,
