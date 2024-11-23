@@ -1,5 +1,5 @@
+#
 Navi
-
 18/11/24
 Perfect World Shanghai Major 2024 Europe RMR A
 Perfect World Shanghai Major 2024 Europe RMR A
@@ -17,9 +17,8 @@ ESL Pro League Season 20
 ESL Pro League Season 20
 RussiaSpirit	Mirage	13 - 9	W
 
-##########################################################
+#
 G2
-
 23/11/24
 Perfect World Shanghai Major 2024 Europe RMR B
 Perfect World Shanghai Major 2024 Europe RMR B
@@ -49,10 +48,8 @@ BLAST Premier Fall Final 2024
 BLAST Premier Fall Final 2024
 RussiaSpirit	Mirage	16 - 13	W
 
-
-########################################################
+#
 Spirit
-
 23/11/24
 Perfect World Shanghai Major 2024 Europe RMR B
 Perfect World Shanghai Major 2024 Europe RMR B
@@ -82,8 +79,8 @@ BetBoom Dacha Belgrade Season 2
 BetBoom Dacha Belgrade Season 2
 EuropeMOUZ	Mirage	14 - 16	L
 
-#Vitality
-
+#
+Vitality
 02/11/24
 BLAST Premier World Final 2024
 BLAST Premier World Final 2024
