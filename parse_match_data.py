@@ -1,22 +1,16 @@
 from datetime import date
-from pprint import pprint as pp
-
 from match import Match
-from team import spirit, vitality, mouz, g2, navi
-
-name_dict = {
-    'RussiaSpirit': spirit,
-    'FranceVitality': vitality,
-    'EuropeMOUZ': mouz,
-    'EuropeG2': g2,
-    'EuropeNatus Vincere': navi,
-}
 
 
 def name_score_parser(team):
     name, score = team.split(' (')
+    filtered_name = ''
+    for num, char in enumerate(name[1:]):
+        if char.isupper():
+            filtered_name = name[num+1:]
+            break
     filtered_score = int(score[0:-1])
-    return name, filtered_score
+    return filtered_name, filtered_score
 
 
 def matches():
@@ -33,10 +27,10 @@ def matches():
             match = Match(
                 date=date(2000+int(year), int(month), int(day)),
                 map_name=file[i+2].replace('\n', ''),
-                team_a= name_dict[name_a],
-                team_b= name_dict[name_b],
-                score_a= score_a,
-                score_b= score_b,
+                team_a=name_a,
+                team_b=name_b,
+                score_a=score_a,
+                score_b=score_b,
             )
             matches.append(match)
-    return matches
+    return sorted(matches, key=lambda game: game.date)
