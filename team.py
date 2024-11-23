@@ -9,3 +9,10 @@ class Team:
 
     def __repr__(self):
         return f'{self.__class__.__name__}(team_name={self.team_name})'
+
+
+navi = Team('EuropeNatus Vincere')
+mouz = Team('EuropeMOUZ')
+spirit = Team('RussiaSpirit')
+g2 = Team('EuropeG2')
+vitality = Team('FranceVitality')
