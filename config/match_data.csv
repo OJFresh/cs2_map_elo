@@ -1,0 +1,45 @@
+date,map_name,win_team,lose_team,win_score,lose_score
+2024-11-23,Nuke,G2,Spirit,16,14
+2024-11-23,Mirage,Spirit,G2,13,5
+2024-11-23,Ancient,G2,Spirit,13,9
+2024-11-18,Inferno,MOUZ,Natus Vincere,13,7
+2024-11-18,Dust2,MOUZ,Natus Vincere,13,8
+2024-11-18,Mirage,Natus Vincere,MOUZ,13,4
+2024-11-03,Dust2,G2,Spirit,13,7
+2024-11-03,Anubis,G2,Spirit,13,5
+2024-11-03,Mirage,G2,Spirit,13,7
+2024-11-02,Mirage,G2,Vitality,13,8
+2024-11-02,Inferno,Vitality,G2,13,7
+2024-11-02,Dust2,G2,Vitality,13,10
+2024-11-01,Mirage,Vitality,MOUZ,13,6
+2024-11-01,Dust2,Vitality,MOUZ,13,6
+2024-10-31,Mirage,G2,Spirit,13,10
+2024-10-31,Anubis,G2,Spirit,16,13
+2024-10-30,Mirage,Spirit,Vitality,13,11
+2024-10-30,Anubis,Spirit,Vitality,13,9
+2024-10-13,Ancient,Natus Vincere,MOUZ,13,11
+2024-10-13,Mirage,MOUZ,Natus Vincere,13,6
+2024-10-13,Dust2,Natus Vincere,MOUZ,13,2
+2024-10-13,Inferno,Natus Vincere,MOUZ,13,11
+2024-10-11,Inferno,MOUZ,Vitality,13,10
+2024-10-11,Nuke,MOUZ,Vitality,13,11
+2024-10-11,Mirage,Vitality,MOUZ,13,7
+2024-09-29,Inferno,G2,Natus Vincere,13,7
+2024-09-29,Mirage,Natus Vincere,G2,13,11
+2024-09-29,Dust2,G2,Natus Vincere,13,11
+2024-09-29,Ancient,G2,Natus Vincere,13,9
+2024-09-28,Mirage,G2,Vitality,16,14
+2024-09-28,Dust2,G2,Vitality,13,7
+2024-09-28,Anubis,Vitality,G2,13,9
+2024-09-27,Mirage,G2,Spirit,16,13
+2024-09-27,Dust2,G2,Spirit,13,9
+2024-09-26,Ancient,Natus Vincere,G2,13,9
+2024-09-26,Dust2,Natus Vincere,G2,13,9
+2024-09-21,Ancient,Natus Vincere,G2,13,6
+2024-09-21,Nuke,G2,Natus Vincere,13,11
+2024-09-21,Inferno,Natus Vincere,G2,13,8
+2024-09-20,Mirage,Natus Vincere,Spirit,13,9
+2024-09-20,Dust2,Natus Vincere,Spirit,13,5
+2024-08-30,Ancient,Spirit,MOUZ,13,11
+2024-08-30,Mirage,MOUZ,Spirit,16,14
+2024-08-30,Nuke,Spirit,MOUZ,13,9
