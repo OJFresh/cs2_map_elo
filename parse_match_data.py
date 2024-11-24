@@ -1,5 +1,5 @@
 from datetime import date
-from match import Match
+import pandas as pd
 
 
 def name_score_parser(team):
@@ -7,33 +7,54 @@ def name_score_parser(team):
     filtered_name = ''
     for num, char in enumerate(name[1:]):
         if char.isupper():
-            filtered_name = name[num+1:]
+            filtered_name = name[num + 1:]
             break
     filtered_score = int(score[0:-1])
     return filtered_name, filtered_score
 
 
-def matches():
-    with open('dust2.txt', 'r') as f:
+def create_matches_database():
+    dates = []
+    map_names = []
+    winner_names = []
+    loser_names = []
+    winner_scores = []
+    loser_scores = []
+    with open('config/raw_match_data.txt', 'r') as f:
         file = f.readlines()
-        matches = []
         for i in range(0, len(file), 4):
             filtered_date = file[i].replace('\n', '')
             day, month, year = filtered_date.split('/')
-            teams = file[i+1].replace('\n', '')
-            team_a, team_b = teams.split('\t')
+            game_date = date(2000 + int(year), int(month), int(day))
+            teams = file[i + 1].replace('\n', '')
+            map_name = file[i + 2].replace('\n', '')
+            team_a, team_b, _ = teams.split('\t')
             name_winner, score_winner = name_score_parser(team_a)
             name_loser, score_loser = name_score_parser(team_b)
             if score_loser > score_winner:
                 name_winner, score_winner = name_score_parser(team_b)
                 name_loser, score_loser = name_score_parser(team_a)
-            match = Match(
-                date=date(2000+int(year), int(month), int(day)),
-                map_name=file[i+2].replace('\n', ''),
-                win_team=name_winner,
-                lose_team=name_loser,
-                win_score=score_winner,
-                lose_score=score_loser,
-            )
-            matches.append(match)
-    return sorted(matches, key=lambda game: game.date)
+            dates.append(game_date)
+            map_names.append(map_name)
+            winner_names.append(name_winner)
+            loser_names.append(name_loser)
+            winner_scores.append(score_winner)
+            loser_scores.append(score_loser)
+    matches_dict = {
+        'Date': dates,
+        'Map Name': map_names,
+        'Winning Team Name': winner_names,
+        'Losing Team Name': loser_names,
+        'Winning Team Score': winner_scores,
+        'Losing Team Score': loser_scores,
+    }
+    df = pd.DataFrame(matches_dict)
+    df.to_csv('match_data.csv')
+
+# def create_dataframe():
+#     num_of_teams = [0] * len(team_names)
+#     df_dict = {'Team Names': team_names}
+#     for name in map_names:
+#         df_dict[name] = num_of_teams
+#     df = pd.DataFrame(df_dict)
+#     df.to_csv('team_elo.csv', index=False)

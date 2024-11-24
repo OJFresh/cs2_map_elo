@@ -1,15 +1,7 @@
 import pandas as pd
 
+from parse_match_data import create_matches_database
 
-data = {
-    'Team Name': ['vitality', 'g2', 'faze', 'Navi'],
-    'Mirage': [0, 0, 0, 0],
-    'Inferno': [0, 0, 0, 0],
-    'Ancient': [0, 0, 0, 0],
-    'Nuke': [0, 0, 0, 0],
-    'Anubis': [0, 0, 0, 0],
-    'Vertigo': [0, 0, 0, 0],
-    'Dust 2': [0, 0, 0, 0],
-}
+create_matches_database()
 
-df = pd.DataFrame(data)
+# df = pd.read_csv('team_elo.csv', index_col='Team Names')
