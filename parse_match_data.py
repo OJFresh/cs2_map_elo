@@ -41,20 +41,15 @@ def create_matches_database():
             winner_scores.append(score_winner)
             loser_scores.append(score_loser)
     matches_dict = {
-        'Date': dates,
-        'Map Name': map_names,
-        'Winning Team Name': winner_names,
-        'Losing Team Name': loser_names,
-        'Winning Team Score': winner_scores,
-        'Losing Team Score': loser_scores,
+        'date': dates,
+        'map_name': map_names,
+        'win_team': winner_names,
+        'lose_team': loser_names,
+        'win_score': winner_scores,
+        'lose_score': loser_scores,
     }
     df = pd.DataFrame(matches_dict)
-    df.to_csv('match_data.csv')
+    df.to_csv('config/match_data.csv', index=False)
 
-# def create_dataframe():
-#     num_of_teams = [0] * len(team_names)
-#     df_dict = {'Team Names': team_names}
-#     for name in map_names:
-#         df_dict[name] = num_of_teams
-#     df = pd.DataFrame(df_dict)
-#     df.to_csv('team_elo.csv', index=False)
+
+create_matches_database()
