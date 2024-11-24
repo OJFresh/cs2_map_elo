@@ -1,6 +1,8 @@
 from datetime import date
 import pandas as pd
 
+from match import Match
+
 
 def name_score_parser(team):
     name, score = team.split(' (')
@@ -28,7 +30,7 @@ def create_matches_database():
             game_date = date(2000 + int(year), int(month), int(day))
             teams = file[i + 1].replace('\n', '')
             map_name = file[i + 2].replace('\n', '')
-            team_a, team_b, _ = teams.split('\t')
+            team_a, team_b= teams.split('\t')
             name_winner, score_winner = name_score_parser(team_a)
             name_loser, score_loser = name_score_parser(team_b)
             if score_loser > score_winner:
@@ -52,4 +54,19 @@ def create_matches_database():
     df.to_csv('config/match_data.csv', index=False)
 
 
-create_matches_database()
+def build_empty_elo_df():
+    matches = pd.read_csv('config/match_data.csv')
+    maps = set(matches['map_name'])
+    teams = set(list(matches['win_team']) + list(matches['lose_team']))
+    df_dict = {'team_name': list(teams)}
+    for map_name in maps:
+        df_dict[map_name] = [0]*len(teams)
+    df = pd.DataFrame(df_dict)
+    df.to_csv('config/elo.csv', index=False)
+
+
+def populate_elo_database():
+    matches = pd.read_csv('config/match_data.csv')
+    for i, x in matches.iterrows():
+        kwargs = x.to_dict()
+        Match(**kwargs).modify_elo()

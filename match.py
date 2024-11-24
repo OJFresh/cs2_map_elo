@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 class Match:
     def __init__(self, date, map_name, win_team, lose_team, win_score, lose_score):
         self.date = date
@@ -23,7 +24,7 @@ class Match:
             loser_elo = 100
         diff = 1 - 1*(winner_elo - loser_elo)/10
         df.loc[self.win_team, self.map_name] = winner_elo + diff
-        df.loc[self.lose_team, self.map_name] = loser_elo - diff/2
+        df.loc[self.lose_team, self.map_name] = loser_elo - diff
         print(f'{self.win_team} beat {self.lose_team} on map {self.map_name}')
         print(f'Score:{self.win_score}:{self.lose_score}')
         print(f'Diff: {diff} on {self.date}')
