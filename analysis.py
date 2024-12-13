@@ -2,7 +2,6 @@ import pandas as pd
 from pprint import pprint as pp
 
 
-
 class Analyser:
     @property
     def elo_df(self):
@@ -18,9 +17,8 @@ class Analyser:
     def elo_diff(self, team_a, team_b):
         team_a_elos = dict(self.elo_df.loc[team_a])
         team_b_elos = dict(self.elo_df.loc[team_b])
-        elo_diff = {map_name: (team_a_elos[map_name] - team_b_elos[map_name]) for map_name in self.elo_df.columns}
-        return [[map_name, float(elo)] for map_name, elo in
-                       sorted(elo_diff.items(), key=lambda item: item[1], reverse=True)]
+        elo_diff = {map_name: float(team_a_elos[map_name]) - float(team_b_elos[map_name]) for map_name in self.elo_df.columns}
+        return [[map_name, elo] for map_name, elo in sorted(elo_diff.items(), key=lambda item: item[1], reverse=True)]
 
     def veto_predictor(self, team_a, team_b):
         elo_diff = self.elo_diff(team_a, team_b)
@@ -33,6 +31,6 @@ class Analyser:
         print(f'{elo_diff[3][0]} remaining (Diff: {elo_diff[3][1]})')
 
 def execute():
-    pp(Analyser().elo_diff('FaZe', 'Vitality'))
+    pp(Analyser().elo_diff('FaZe', 'G2'))
 
 execute()

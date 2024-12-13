@@ -22,7 +22,7 @@ class Match:
             winner_elo = 100
         if not loser_elo:
             loser_elo = 100
-        diff = 1 - 1*(winner_elo - loser_elo)/10
+        diff = 1 - 1*(winner_elo - loser_elo)/8
         df.loc[self.win_team, self.map_name] = winner_elo + diff
         df.loc[self.lose_team, self.map_name] = loser_elo - diff
         print(f'{self.win_team} beat {self.lose_team} on map {self.map_name}')
