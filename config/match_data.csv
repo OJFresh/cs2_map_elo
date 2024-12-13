@@ -1,59 +1,321 @@
 date,map_name,win_team,lose_team,win_score,lose_score
+2024-12-13,Anubis,FaZe,Vitality,13,7
+2024-12-13,Mirage,FaZe,Vitality,13,8
+2024-12-13,Nuke,Vitality,FaZe,13,6
+2024-12-13,Mirage,G2,HEROIC,16,13
+2024-12-13,Nuke,G2,HEROIC,13,9
+2024-12-13,Ancient,HEROIC,G2,13,6
+2024-12-12,Dust2,Spirit,Liquid,13,11
+2024-12-12,Anubis,Spirit,Liquid,13,9
+2024-12-12,Nuke,MOUZ,The MongolZ,13,9
+2024-12-12,Ancient,MOUZ,The MongolZ,16,14
+2024-12-08,Mirage,FaZe,FURIA,13,10
+2024-12-08,Dust2,FaZe,FURIA,13,9
+2024-12-08,Inferno,FURIA,FaZe,13,6
+2024-12-08,Ancient,HEROIC,Natus Vincere,13,9
+2024-12-08,Nuke,Natus Vincere,HEROIC,13,5
+2024-12-08,Mirage,HEROIC,Natus Vincere,13,3
+2024-12-07,Dust2,Spirit,HEROIC,13,7
+2024-12-07,Mirage,HEROIC,Spirit,13,10
+2024-12-07,Ancient,Spirit,HEROIC,16,14
+2024-12-07,Mirage,G2,FaZe,13,3
+2024-12-07,Inferno,G2,FaZe,13,4
+2024-12-06,Ancient,The MongolZ,HEROIC,13,6
+2024-12-06,Anubis,The MongolZ,HEROIC,19,17
+2024-12-06,Mirage,HEROIC,The MongolZ,13,8
+2024-12-06,Inferno,FaZe,MOUZ,13,10
+2024-12-06,Inferno,Liquid,FURIA,13,9
+2024-12-06,Mirage,Spirit,Natus Vincere,13,2
+2024-12-05,Ancient,HEROIC,FaZe,13,8
+2024-12-05,Mirage,The MongolZ,MOUZ,16,13
+2024-12-05,Mirage,Vitality,FURIA,16,13
+2024-12-05,Dust2,FURIA,Spirit,13,6
+2024-12-05,Inferno,The MongolZ,G2,13,10
+2024-12-05,Nuke,Natus Vincere,Liquid,13,10
+2024-11-23,Inferno,Astralis,Eternal Fire,13,11
+2024-11-23,Dust2,Astralis,Eternal Fire,13,8
+2024-11-23,Vertigo,Eternal Fire,Astralis,13,6
+2024-11-23,Nuke,G2,Spirit,16,14
 2024-11-23,Mirage,Spirit,G2,13,5
+2024-11-23,Ancient,G2,Spirit,13,9
+2024-11-18,Dust2,Vitality,FaZe,13,11
 2024-11-18,Mirage,Vitality,FaZe,13,5
+2024-11-18,Inferno,MOUZ,Natus Vincere,13,7
+2024-11-18,Dust2,MOUZ,Natus Vincere,13,8
 2024-11-18,Mirage,Natus Vincere,MOUZ,13,4
+2024-11-14,Inferno,Liquid,FURIA,13,7
+2024-11-14,Dust2,FURIA,Liquid,13,3
+2024-11-14,Anubis,Liquid,FURIA,13,3
 2024-11-03,Mirage,The MongolZ,HEROIC,13,2
+2024-11-03,Anubis,The MongolZ,HEROIC,13,11
+2024-11-03,Ancient,HEROIC,The MongolZ,13,6
+2024-11-03,Dust2,The MongolZ,HEROIC,13,8
+2024-11-03,Dust2,G2,Spirit,13,7
+2024-11-03,Anubis,G2,Spirit,13,5
 2024-11-03,Mirage,G2,Spirit,13,7
+2024-11-02,Ancient,Spirit,Astralis,13,5
+2024-11-02,Vertigo,Astralis,Spirit,13,3
+2024-11-02,Dust2,Spirit,Astralis,13,5
 2024-11-02,Mirage,G2,Vitality,13,8
+2024-11-02,Inferno,Vitality,G2,13,7
+2024-11-02,Dust2,G2,Vitality,13,10
+2024-11-01,Anubis,Spirit,FaZe,19,17
 2024-11-01,Mirage,Spirit,FaZe,13,10
 2024-11-01,Mirage,Vitality,MOUZ,13,6
+2024-11-01,Dust2,Vitality,MOUZ,13,6
 2024-10-31,Mirage,G2,Spirit,13,10
+2024-10-31,Anubis,G2,Spirit,16,13
+2024-10-31,Nuke,Vitality,Liquid,13,11
+2024-10-31,Dust2,Vitality,Liquid,13,3
+2024-10-31,Anubis,Liquid,Vitality,13,10
+2024-10-31,Nuke,Astralis,MOUZ,13,9
+2024-10-31,Vertigo,Astralis,MOUZ,13,7
+2024-10-31,Ancient,FaZe,Natus Vincere,13,6
 2024-10-31,Mirage,FaZe,Natus Vincere,13,8
+2024-10-31,Inferno,Natus Vincere,FaZe,13,6
 2024-10-30,Mirage,Spirit,Vitality,13,11
+2024-10-30,Anubis,Spirit,Vitality,13,9
 2024-10-30,Mirage,G2,Liquid,13,6
+2024-10-30,Inferno,G2,Liquid,13,6
+2024-10-30,Ancient,Liquid,G2,13,0
+2024-10-30,Nuke,MOUZ,FaZe,13,11
+2024-10-30,Inferno,MOUZ,FaZe,16,13
 2024-10-30,Mirage,Astralis,Natus Vincere,13,6
+2024-10-30,Nuke,Astralis,Natus Vincere,13,6
+2024-10-13,Ancient,Natus Vincere,MOUZ,13,11
 2024-10-13,Mirage,MOUZ,Natus Vincere,13,6
+2024-10-13,Dust2,Natus Vincere,MOUZ,13,2
+2024-10-13,Inferno,Natus Vincere,MOUZ,13,11
 2024-10-12,Mirage,MOUZ,FURIA,13,3
+2024-10-12,Nuke,MOUZ,FURIA,13,3
 2024-10-12,Mirage,Natus Vincere,HEROIC,13,6
+2024-10-12,Dust2,Natus Vincere,HEROIC,16,14
+2024-10-12,Ancient,HEROIC,Natus Vincere,13,9
+2024-10-11,Inferno,MOUZ,Vitality,13,10
+2024-10-11,Nuke,MOUZ,Vitality,13,11
 2024-10-11,Mirage,Vitality,MOUZ,13,7
+2024-10-11,Ancient,Natus Vincere,Virtus.pro,13,11
+2024-10-11,Inferno,Natus Vincere,Virtus.pro,13,4
+2024-10-09,Nuke,MOUZ,FaZe,13,7
 2024-10-09,Mirage,FaZe,MOUZ,16,14
+2024-10-09,Dust2,MOUZ,FaZe,13,7
 2024-10-09,Mirage,FURIA,Natus Vincere,13,4
+2024-10-09,Nuke,FURIA,Natus Vincere,13,10
+2024-10-09,Anubis,HEROIC,Vitality,13,5
 2024-10-09,Mirage,HEROIC,Vitality,13,11
+2024-10-08,Inferno,MOUZ,StatesComplexity,16,12
+2024-10-08,Vertigo,MOUZ,StatesComplexity,16,12
+2024-10-08,Dust2,FaZe,Liquid,13,7
+2024-10-08,Inferno,FaZe,Liquid,13,6
 2024-10-08,Mirage,Eternal Fire,G2,13,6
+2024-10-08,Anubis,Eternal Fire,G2,13,4
+2024-10-07,Ancient,Natus Vincere,Liquid,13,11
+2024-10-07,Dust2,Natus Vincere,Liquid,13,5
+2024-10-07,Inferno,Liquid,Natus Vincere,13,4
+2024-10-07,Dust2,FURIA,MOUZ,13,5
 2024-10-07,Mirage,MOUZ,FURIA,13,5
+2024-10-07,Nuke,FURIA,MOUZ,13,8
+2024-10-07,Dust2,HEROIC,G2,13,10
+2024-10-07,Inferno,Liquid,StatesComplexity,13,6
+2024-10-07,Dust2,FURIA,FaZe,13,7
+2024-09-29,Inferno,G2,Natus Vincere,13,7
 2024-09-29,Mirage,Natus Vincere,G2,13,11
+2024-09-29,Dust2,G2,Natus Vincere,13,11
+2024-09-29,Ancient,G2,Natus Vincere,13,9
+2024-09-28,Anubis,Natus Vincere,FaZe,13,2
+2024-09-28,Ancient,Natus Vincere,FaZe,13,11
+2024-09-28,Inferno,FaZe,Natus Vincere,13,10
 2024-09-28,Mirage,G2,Vitality,16,14
+2024-09-28,Dust2,G2,Vitality,13,7
+2024-09-28,Anubis,Vitality,G2,13,9
 2024-09-27,Mirage,FaZe,Liquid,13,3
+2024-09-27,Inferno,FaZe,Liquid,13,6
 2024-09-27,Mirage,G2,Spirit,16,13
+2024-09-27,Dust2,G2,Spirit,13,9
+2024-09-26,Nuke,Vitality,Liquid,13,11
+2024-09-26,Anubis,Vitality,Liquid,16,12
 2024-09-26,Mirage,Spirit,Astralis,13,11
+2024-09-26,Dust2,Spirit,Astralis,13,5
+2024-09-26,Ancient,Astralis,Spirit,13,3
+2024-09-26,Ancient,Natus Vincere,G2,13,9
+2024-09-26,Dust2,Natus Vincere,G2,13,9
+2024-09-25,Anubis,Liquid,Spirit,13,10
+2024-09-25,Nuke,Liquid,Spirit,13,11
+2024-09-25,Dust2,Spirit,Liquid,13,3
+2024-09-25,Dust2,Vitality,Astralis,13,4
+2024-09-25,Inferno,Vitality,Astralis,13,0
 2024-09-25,Mirage,G2,FaZe,13,9
+2024-09-25,Inferno,FaZe,G2,13,6
+2024-09-25,Dust2,G2,FaZe,13,7
+2024-09-22,Dust2,Natus Vincere,Eternal Fire,13,10
+2024-09-22,Inferno,Eternal Fire,Natus Vincere,13,4
+2024-09-22,Ancient,Natus Vincere,Eternal Fire,13,11
+2024-09-22,Anubis,Natus Vincere,Eternal Fire,13,11
+2024-09-22,Nuke,Eternal Fire,Natus Vincere,13,8
+2024-09-21,Ancient,Natus Vincere,G2,13,6
+2024-09-21,Nuke,G2,Natus Vincere,13,11
+2024-09-21,Inferno,Natus Vincere,G2,13,8
+2024-09-20,Nuke,G2,Liquid,13,3
 2024-09-20,Mirage,Liquid,G2,13,5
+2024-09-20,Inferno,G2,Liquid,13,3
 2024-09-20,Mirage,Natus Vincere,Spirit,13,9
+2024-09-20,Dust2,Natus Vincere,Spirit,13,5
+2024-09-19,Inferno,Eternal Fire,Vitality,22,20
+2024-09-19,Nuke,Vitality,Eternal Fire,13,5
+2024-09-19,Anubis,Eternal Fire,Vitality,16,14
+2024-09-18,Anubis,Liquid,StatesComplexity,13,7
+2024-09-18,Nuke,Liquid,StatesComplexity,13,2
+2024-09-17,Dust2,StatesComplexity,FaZe,13,9
+2024-09-17,Anubis,StatesComplexity,FaZe,13,10
+2024-09-17,Anubis,Spirit,FURIA,13,11
+2024-09-17,Nuke,Spirit,FURIA,13,9
+2024-09-15,Dust2,Vitality,Liquid,13,9
+2024-09-15,Nuke,Vitality,Liquid,13,5
+2024-09-15,Anubis,Liquid,Vitality,13,10
+2024-09-15,Ancient,StatesComplexity,MOUZ,13,10
+2024-09-15,Vertigo,StatesComplexity,MOUZ,13,8
+2024-09-14,Nuke,StatesComplexity,Astralis,16,14
+2024-09-14,Inferno,Astralis,StatesComplexity,13,6
+2024-09-14,Vertigo,StatesComplexity,Astralis,13,10
+2024-09-12,Nuke,StatesComplexity,MOUZ,13,6
+2024-09-12,Vertigo,StatesComplexity,MOUZ,13,8
+2024-09-12,Dust2,Liquid,Virtus.pro,13,6
+2024-09-12,Ancient,Liquid,Virtus.pro,13,7
+2024-09-11,Inferno,StatesComplexity,Astralis,16,14
+2024-09-11,Vertigo,StatesComplexity,Astralis,19,17
 2024-09-07,Mirage,Natus Vincere,Eternal Fire,13,5
+2024-09-07,Anubis,Natus Vincere,Eternal Fire,22,20
+2024-09-06,Nuke,Spirit,The MongolZ,13,11
+2024-09-06,Anubis,Spirit,The MongolZ,13,4
+2024-09-06,Ancient,The MongolZ,Spirit,13,9
 2024-09-01,Mirage,Spirit,Eternal Fire,13,9
+2024-09-01,Vertigo,Spirit,Eternal Fire,13,8
+2024-09-01,Nuke,Spirit,Eternal Fire,13,7
+2024-08-31,Nuke,Eternal Fire,MOUZ,19,17
+2024-08-31,Dust2,Eternal Fire,MOUZ,13,10
+2024-08-30,Ancient,Spirit,MOUZ,13,11
 2024-08-30,Mirage,MOUZ,Spirit,16,14
+2024-08-30,Nuke,Spirit,MOUZ,13,9
+2024-08-29,Anubis,Eternal Fire,HEROIC,13,10
 2024-08-29,Mirage,Eternal Fire,HEROIC,13,7
+2024-08-28,Nuke,MOUZ,Eternal Fire,13,3
+2024-08-28,Inferno,MOUZ,Eternal Fire,13,8
+2024-08-18,Inferno,Vitality,Natus Vincere,13,9
 2024-08-18,Mirage,Vitality,Natus Vincere,22,20
+2024-08-18,Dust2,Natus Vincere,Vitality,13,10
+2024-08-18,Nuke,Vitality,Natus Vincere,16,14
 2024-08-17,Mirage,Natus Vincere,MOUZ,13,11
+2024-08-17,Inferno,Natus Vincere,MOUZ,16,14
+2024-08-17,Dust2,Vitality,SAW,13,5
+2024-08-17,Nuke,Vitality,SAW,13,6
 2024-08-16,Mirage,MOUZ,G2,13,8
+2024-08-16,Dust2,MOUZ,G2,13,9
+2024-08-16,Nuke,SAW,FaZe,16,14
+2024-08-16,Anubis,FaZe,SAW,13,11
+2024-08-16,Inferno,SAW,FaZe,13,6
+2024-08-13,Vertigo,Vitality,MOUZ,16,13
+2024-08-13,Dust2,Vitality,MOUZ,13,6
 2024-08-13,Mirage,FaZe,Liquid,16,13
+2024-08-13,Nuke,Liquid,FaZe,16,13
+2024-08-13,Inferno,FaZe,Liquid,13,9
+2024-08-13,Inferno,Natus Vincere,SAW,13,6
+2024-08-13,Ancient,Natus Vincere,SAW,13,2
+2024-08-13,Nuke,SAW,Natus Vincere,13,9
+2024-08-13,Anubis,Liquid,StatesComplexity,13,5
+2024-08-13,Ancient,Liquid,StatesComplexity,13,10
+2024-08-12,Ancient,G2,Astralis,13,3
 2024-08-12,Mirage,Astralis,G2,13,10
+2024-08-12,Dust2,G2,Astralis,13,1
+2024-08-12,Nuke,MOUZ,StatesComplexity,13,11
+2024-08-12,Vertigo,MOUZ,StatesComplexity,13,9
+2024-08-12,Anubis,Vitality,FaZe,13,9
+2024-08-12,Dust2,Vitality,FaZe,16,12
+2024-08-12,Inferno,FaZe,Vitality,13,8
 2024-08-11,Mirage,G2,Spirit,13,1
+2024-08-11,Nuke,G2,Spirit,13,3
 2024-08-11,Mirage,Natus Vincere,Astralis,13,7
+2024-08-11,Ancient,Natus Vincere,Astralis,13,4
+2024-08-11,Anubis,SAW,The MongolZ,13,10
+2024-08-11,Nuke,SAW,The MongolZ,13,7
+2024-08-11,Ancient,The MongolZ,SAW,16,13
+2024-08-10,Anubis,The MongolZ,Spirit,13,4
+2024-08-10,Ancient,The MongolZ,Spirit,16,13
+2024-08-10,Inferno,SAW,G2,13,10
+2024-08-10,Nuke,SAW,G2,13,5
+2024-08-10,Anubis,StatesComplexity,Virtus.pro,13,5
+2024-08-10,Dust2,Virtus.pro,StatesComplexity,16,14
+2024-08-10,Vertigo,StatesComplexity,Virtus.pro,13,6
+2024-08-10,Nuke,FaZe,Liquid,13,10
 2024-08-10,Mirage,FaZe,Liquid,13,11
+2024-08-07,Dust2,SAW,The MongolZ,13,5
+2024-08-07,Ancient,The MongolZ,SAW,13,5
+2024-08-07,Anubis,SAW,The MongolZ,16,13
+2024-08-04,Nuke,Natus Vincere,StatesComplexity,13,6
+2024-08-04,Anubis,Natus Vincere,StatesComplexity,13,11
+2024-08-03,Inferno,Liquid,Natus Vincere,13,10
+2024-08-03,Anubis,Liquid,Natus Vincere,16,14
+2024-08-03,Nuke,Natus Vincere,Liquid,13,9
+2024-08-03,Nuke,Vitality,Astralis,13,7
 2024-08-03,Mirage,Vitality,Astralis,13,10
+2024-08-03,Vertigo,Astralis,Vitality,13,10
+2024-08-03,Nuke,Spirit,StatesComplexity,13,10
+2024-08-03,Anubis,Spirit,StatesComplexity,13,6
+2024-08-03,Dust2,StatesComplexity,Spirit,19,16
+2024-08-02,Ancient,StatesComplexity,HEROIC,13,11
+2024-08-02,Anubis,StatesComplexity,HEROIC,13,5
+2024-08-01,Inferno,Liquid,Natus Vincere,13,11
 2024-08-01,Mirage,Natus Vincere,Liquid,13,2
+2024-08-01,Anubis,Liquid,Natus Vincere,13,11
 2024-08-01,Mirage,G2,FaZe,13,6
+2024-08-01,Nuke,G2,FaZe,13,6
+2024-08-01,Ancient,FaZe,G2,13,9
+2024-07-31,Dust2,Liquid,Virtus.pro,13,6
+2024-07-31,Ancient,Liquid,Virtus.pro,22,20
+2024-07-30,Dust2,Vitality,Astralis,13,11
+2024-07-30,Nuke,Vitality,Astralis,13,7
+2024-07-30,Anubis,Spirit,HEROIC,13,6
+2024-07-30,Vertigo,Spirit,HEROIC,13,11
+2024-07-29,Vertigo,HEROIC,StatesComplexity,16,14
+2024-07-29,Ancient,HEROIC,StatesComplexity,13,8
+2024-07-21,Inferno,Natus Vincere,G2,13,6
+2024-07-21,Nuke,Natus Vincere,G2,13,6
+2024-07-21,Ancient,G2,Natus Vincere,16,14
 2024-07-20,Mirage,Natus Vincere,MOUZ,13,5
+2024-07-20,Nuke,Natus Vincere,MOUZ,13,8
+2024-07-20,Dust2,MOUZ,Natus Vincere,13,1
+2024-07-20,Ancient,G2,Virtus.pro,13,7
+2024-07-20,Dust2,G2,Virtus.pro,13,4
+2024-07-19,Nuke,Natus Vincere,FaZe,16,12
 2024-07-19,Mirage,Natus Vincere,FaZe,13,10
+2024-07-19,Dust2,Virtus.pro,Vitality,13,5
+2024-07-19,Inferno,Virtus.pro,Vitality,13,7
 2024-07-19,Mirage,Vitality,Virtus.pro,22,20
+2024-07-18,Ancient,G2,Spirit,13,5
+2024-07-18,Nuke,Spirit,G2,16,14
 2024-07-18,Mirage,G2,Spirit,13,8
+2024-07-17,Dust2,Virtus.pro,StatesComplexity,13,4
+2024-07-17,Anubis,Virtus.pro,StatesComplexity,13,9
+2024-07-17,Inferno,G2,The MongolZ,16,13
+2024-07-17,Ancient,G2,The MongolZ,13,11
+2024-06-16,Nuke,Spirit,Natus Vincere,13,6
 2024-06-16,Mirage,Natus Vincere,Spirit,13,4
+2024-06-16,Dust2,Spirit,Natus Vincere,13,9
+2024-06-16,Ancient,Spirit,Natus Vincere,13,9
 2024-06-15,Mirage,Natus Vincere,Virtus.pro,13,9
+2024-06-15,Anubis,Natus Vincere,Virtus.pro,13,5
+2024-06-15,Anubis,Spirit,Vitality,13,9
+2024-06-15,Dust2,Spirit,Vitality,13,9
 2024-06-15,Mirage,Vitality,Spirit,13,11
+2024-06-14,Dust2,Virtus.pro,Astralis,13,10
+2024-06-14,Inferno,Virtus.pro,Astralis,13,8
 2024-06-14,Mirage,Vitality,FaZe,13,6
+2024-06-14,Dust2,Vitality,FaZe,13,10
+2024-06-14,Inferno,FaZe,Vitality,13,4
+2024-06-13,Dust2,Spirit,Virtus.pro,13,11
+2024-06-13,Ancient,Spirit,Virtus.pro,13,4
 2024-06-13,Mirage,Vitality,G2,13,5
+2024-06-13,Anubis,G2,Vitality,13,9
+2024-06-13,Inferno,Vitality,G2,13,4
 2024-06-13,Mirage,Natus Vincere,FaZe,13,10
-2024-06-01,Mirage,Vitality,Spirit,13,11
-2024-05-29,Mirage,HEROIC,Natus Vincere,13,9
-2024-05-28,Mirage,Virtus.pro,FaZe,13,10
+2024-06-13,Nuke,FaZe,Natus Vincere,13,9
+2024-06-13,Dust2,Natus Vincere,FaZe,13,5

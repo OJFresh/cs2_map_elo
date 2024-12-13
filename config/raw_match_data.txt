@@ -1,232 +1,1280 @@
+13/12/24
+EuropeFaZe (13)	EuropeVitality (7)
+Anubis
+Perfect World Shanghai Major 2024
+13/12/24
+EuropeFaZe (13)	EuropeVitality (8)
+Mirage
+Perfect World Shanghai Major 2024
+13/12/24
+EuropeVitality (13)	EuropeFaZe (6)
+Nuke
+Perfect World Shanghai Major 2024
+13/12/24
+EuropeG2 (16)	EuropeHEROIC (13)
+Mirage
+Perfect World Shanghai Major 2024
+13/12/24
+EuropeHEROIC (9)	EuropeG2 (13)
+Nuke
+Perfect World Shanghai Major 2024
+13/12/24
+EuropeG2 (6)	EuropeHEROIC (13)
+Ancient
+Perfect World Shanghai Major 2024
+12/12/24
+OtherLiquid (11)	RussiaSpirit (13)
+Dust2
+Perfect World Shanghai Major 2024
+12/12/24
+RussiaSpirit (13)	OtherLiquid (9)
+Anubis
+Perfect World Shanghai Major 2024
+12/12/24
+MongoliaThe MongolZ (9)	EuropeMOUZ (13)
+Nuke
+Perfect World Shanghai Major 2024
+12/12/24
+EuropeMOUZ (16)	MongoliaThe MongolZ (14)
+Ancient
+Perfect World Shanghai Major 2024
+8/12/24
+BrazilFURIA (10)	EuropeFaZe (13)
+Mirage
+Perfect World Shanghai Major 2024
+8/12/24
+EuropeFaZe (13)	BrazilFURIA (9)
+Dust2
+Perfect World Shanghai Major 2024
+8/12/24
+EuropeFaZe (6)	BrazilFURIA (13)
+Inferno
+Perfect World Shanghai Major 2024
+8/12/24
+EuropeNatus Vincere (9)	EuropeHEROIC (13)
+Ancient
+Perfect World Shanghai Major 2024
+8/12/24
+EuropeHEROIC (5)	EuropeNatus Vincere (13)
+Nuke
+Perfect World Shanghai Major 2024
+8/12/24
+EuropeNatus Vincere (3)	EuropeHEROIC (13)
+Mirage
+Perfect World Shanghai Major 2024
+7/12/24
+EuropeHEROIC (7)	RussiaSpirit (13)
+Dust2
+Perfect World Shanghai Major 2024
+7/12/24
+RussiaSpirit (10)	EuropeHEROIC (13)
+Mirage
+Perfect World Shanghai Major 2024
+7/12/24
+EuropeHEROIC (14)	RussiaSpirit (16)
+Ancient
+Perfect World Shanghai Major 2024
+7/12/24
+EuropeFaZe (3)	EuropeG2 (13)
+Mirage
+Perfect World Shanghai Major 2024
+7/12/24
+EuropeG2 (13)	EuropeFaZe (4)
+Inferno
+Perfect World Shanghai Major 2024
+6/12/24
+EuropeHEROIC (6)	MongoliaThe MongolZ (13)
+Ancient
+Perfect World Shanghai Major 2024
+6/12/24
+EuropeHEROIC (17)	MongoliaThe MongolZ (19)
+Anubis
+Perfect World Shanghai Major 2024
+6/12/24
+EuropeHEROIC (13)	MongoliaThe MongolZ (8)
+Mirage
+Perfect World Shanghai Major 2024
+6/12/24
+EuropeMOUZ (10)	EuropeFaZe (13)
+Inferno
+Perfect World Shanghai Major 2024
+6/12/24
+BrazilFURIA (9)	OtherLiquid (13)
+Inferno
+Perfect World Shanghai Major 2024
+6/12/24
+EuropeNatus Vincere (2)	RussiaSpirit (13)
+Mirage
+Perfect World Shanghai Major 2024
+5/12/24
+EuropeFaZe (8)	EuropeHEROIC (13)
+Ancient
+Perfect World Shanghai Major 2024
+5/12/24
+EuropeMOUZ (13)	MongoliaThe MongolZ (16)
+Mirage
+Perfect World Shanghai Major 2024
+5/12/24
+EuropeVitality (16)	BrazilFURIA (13)
+Mirage
+Perfect World Shanghai Major 2024
+5/12/24
+RussiaSpirit (6)	BrazilFURIA (13)
+Dust2
+Perfect World Shanghai Major 2024
+5/12/24
+EuropeG2 (10)	MongoliaThe MongolZ (13)
+Inferno
+Perfect World Shanghai Major 2024
+5/12/24
+EuropeNatus Vincere (13)	OtherLiquid (10)
+Nuke
+Perfect World Shanghai Major 2024
+23/11/24
+TurkeyEternal Fire (11)	DenmarkAstralis (13)
+Inferno
+Perfect World Shanghai Major 2024 Europe RMR B
+23/11/24
+TurkeyEternal Fire (8)	DenmarkAstralis (13)
+Dust2
+Perfect World Shanghai Major 2024 Europe RMR B
+23/11/24
+DenmarkAstralis (6)	TurkeyEternal Fire (13)
+Vertigo
+Perfect World Shanghai Major 2024 Europe RMR B
+23/11/24
+EuropeG2 (16)	RussiaSpirit (14)
+Nuke
+Perfect World Shanghai Major 2024 Europe RMR B
 23/11/24
 RussiaSpirit (13)	EuropeG2 (5)
 Mirage
 Perfect World Shanghai Major 2024 Europe RMR B
+23/11/24
+EuropeG2 (13)	RussiaSpirit (9)
+Ancient
+Perfect World Shanghai Major 2024 Europe RMR B
+18/11/24
+EuropeFaZe (11)	EuropeVitality (13)
+Dust2
+Perfect World Shanghai Major 2024 Europe RMR A
 18/11/24
 EuropeVitality (13)	EuropeFaZe (5)
 Mirage
 Perfect World Shanghai Major 2024 Europe RMR A
 18/11/24
+EuropeNatus Vincere (7)	EuropeMOUZ (13)
+Inferno
+Perfect World Shanghai Major 2024 Europe RMR A
+18/11/24
+EuropeMOUZ (13)	EuropeNatus Vincere (8)
+Dust2
+Perfect World Shanghai Major 2024 Europe RMR A
+18/11/24
 EuropeNatus Vincere (13)	EuropeMOUZ (4)
 Mirage
 Perfect World Shanghai Major 2024 Europe RMR A
+14/11/24
+BrazilFURIA (7)	OtherLiquid (13)
+Inferno
+Perfect World Shanghai Major 2024 Americas RMR
+14/11/24
+BrazilFURIA (13)	OtherLiquid (3)
+Dust2
+Perfect World Shanghai Major 2024 Americas RMR
+14/11/24
+OtherLiquid (13)	BrazilFURIA (3)
+Anubis
+Perfect World Shanghai Major 2024 Americas RMR
 3/11/24
 EuropeHEROIC (2)	MongoliaThe MongolZ (13)
 Mirage
 Thunderpick World Championship 2024 Finals
 3/11/24
+EuropeHEROIC (11)	MongoliaThe MongolZ (13)
+Anubis
+Thunderpick World Championship 2024 Finals
+3/11/24
+EuropeHEROIC (13)	MongoliaThe MongolZ (6)
+Ancient
+Thunderpick World Champ
+3/11/24
+MongoliaThe MongolZ (13)	EuropeHEROIC (8)
+Dust2
+Thunderpick World Championship 2024 Finals
+3/11/24
+RussiaSpirit (7)	EuropeG2 (13)
+Dust2
+BLAST Premier World Final 2024
+3/11/24
+RussiaSpirit (5)	EuropeG2 (13)
+Anubis
+BLAST Premier World Final 2024
+3/11/24
 RussiaSpirit (7)	EuropeG2 (13)
 Mirage
 BLAST Premier World Final 2024
 2/11/24
-EuropeG2 (13)	EuropeVitality (8)
+DenmarkAstralis (5)	RussiaSpirit (13)
+Ancient
+BLAST Premier World Final 2024
+2/11/24
+RussiaSpirit (3)	DenmarkAstralis (13)
+Vertigo
+BLAST Premier World Final 2024
+2/11/24
+RussiaSpirit (13)	DenmarkAstralis (5)
+Dust2
+BLAST Premier World Final 2024
+2/11/24
+EuropeG2 (13)	FranceVitality (8)
 Mirage
+BLAST Premier World Final 2024
+2/11/24
+FranceVitality (13)	EuropeG2 (7)
+Inferno
+BLAST Premier World Final 2024
+2/11/24
+EuropeG2 (13)	FranceVitality (10)
+Dust2
+BLAST Premier World Final 2024
+1/11/24
+RussiaSpirit (19)	EuropeFaZe (17)
+Anubis
 BLAST Premier World Final 2024
 1/11/24
 RussiaSpirit (13)	EuropeFaZe (10)
 Mirage
 BLAST Premier World Final 2024
 1/11/24
-EuropeVitality (13)	EuropeMOUZ (6)
+FranceVitality (13)	EuropeMOUZ (6)
 Mirage
+BLAST Premier World Final 2024
+1/11/24
+EuropeMOUZ (6)	FranceVitality (13)
+Dust2
 BLAST Premier World Final 2024
 31/10/24
 RussiaSpirit (10)	EuropeG2 (13)
 Mirage
 BLAST Premier World Final 2024
 31/10/24
+RussiaSpirit (13)	EuropeG2 (16)
+Anubis
+BLAST Premier World Final 2024
+31/10/24
+FranceVitality (13)	OtherLiquid (11)
+Nuke
+BLAST Premier World Final 2024
+31/10/24
+OtherLiquid (3)	FranceVitality (13)
+Dust2
+BLAST Premier World Final 2024
+31/10/24
+OtherLiquid (13)	FranceVitality (10)
+Anubis
+BLAST Premier World Final 2024
+31/10/24
+DenmarkAstralis (13)	EuropeMOUZ (9)
+Nuke
+BLAST Premier World Final 2024
+31/10/24
+EuropeMOUZ (7)	DenmarkAstralis (13)
+Vertigo
+BLAST Premier World Final 2024
+31/10/24
+EuropeFaZe (13)	EuropeNatus Vincere (6)
+Ancient
+BLAST Premier World Final 2024
+31/10/24
 EuropeFaZe (13)	EuropeNatus Vincere (8)
 Mirage
 BLAST Premier World Final 2024
+31/10/24
+EuropeNatus Vincere (13)	EuropeFaZe (6)
+Inferno
+BLAST Premier World Final 2024
 30/10/24
-RussiaSpirit (13)	EuropeVitality (11)
+RussiaSpirit (13)	FranceVitality (11)
 Mirage
+BLAST Premier World Final 2024
+30/10/24
+RussiaSpirit (13)	FranceVitality (9)
+Anubis
 BLAST Premier World Final 2024
 30/10/24
 EuropeG2 (13)	OtherLiquid (6)
 Mirage
 BLAST Premier World Final 2024
 30/10/24
+OtherLiquid (6)	EuropeG2 (13)
+Inferno
+BLAST Premier World Final 2024
+30/10/24
+OtherLiquid (13)	EuropeG2 (0)
+Ancient
+BLAST Premier World Final 2024
+30/10/24
+EuropeFaZe (11)	EuropeMOUZ (13)
+Nuke
+BLAST Premier World Final 2024
+30/10/24
+EuropeMOUZ (16)	EuropeFaZe (13)
+Inferno
+BLAST Premier World Final 2024
+30/10/24
 DenmarkAstralis (13)	EuropeNatus Vincere (6)
 Mirage
 BLAST Premier World Final 2024
+30/10/24
+EuropeNatus Vincere (6)	DenmarkAstralis (13)
+Nuke
+BLAST Premier World Final 2024
+13/10/24
+EuropeMOUZ (11)	EuropeNatus Vincere (13)
+Ancient
+IEM Rio 2024
 13/10/24
 EuropeNatus Vincere (6)	EuropeMOUZ (13)
 Mirage
+IEM Rio 2024
+13/10/24
+EuropeMOUZ (2)	EuropeNatus Vincere (13)
+Dust2
+IEM Rio 2024
+13/10/24
+EuropeNatus Vincere (13)	EuropeMOUZ (11)
+Inferno
 IEM Rio 2024
 12/10/24
 BrazilFURIA (3)	EuropeMOUZ (13)
 Mirage
 IEM Rio 2024
 12/10/24
+EuropeMOUZ (13)	BrazilFURIA (3)
+Nuke
+IEM Rio 2024
+12/10/24
 EuropeHEROIC (6)	EuropeNatus Vincere (13)
 Mirage
 IEM Rio 2024
+12/10/24
+EuropeNatus Vincere (16)	EuropeHEROIC (14)
+Dust2
+IEM Rio 2024
+12/10/24
+EuropeHEROIC (13)	EuropeNatus Vincere (9)
+Ancient
+IEM Rio 2024
 11/10/24
-EuropeVitality (13)	EuropeMOUZ (7)
+FranceVitality (10)	EuropeMOUZ (13)
+Inferno
+IEM Rio 2024
+11/10/24
+EuropeMOUZ (13)	FranceVitality (11)
+Nuke
+IEM Rio 2024
+11/10/24
+FranceVitality (13)	EuropeMOUZ (7)
 Mirage
+IEM Rio 2024
+11/10/24
+RussiaVirtus.pro (11)	EuropeNatus Vincere (13)
+Ancient
+IEM Rio 2024
+11/10/24
+EuropeNatus Vincere (13)	RussiaVirtus.pro (4)
+Inferno
+IEM Rio 2024
+9/10/24
+EuropeFaZe (7)	EuropeMOUZ (13)
+Nuke
 IEM Rio 2024
 9/10/24
 EuropeFaZe (16)	EuropeMOUZ (14)
 Mirage
 IEM Rio 2024
 9/10/24
+EuropeMOUZ (13)	EuropeFaZe (7)
+Dust2
+IEM Rio 2024
+9/10/24
 BrazilFURIA (13)	EuropeNatus Vincere (4)
 Mirage
+IEM Rio 2024
+9/10/24
+EuropeNatus Vincere (10)	BrazilFURIA (13)
+Nuke
+IEM Rio 2024
+9/10/24
+EuropeVitality (5)	EuropeHEROIC (13)
+Anubis
 IEM Rio 2024
 9/10/24
 EuropeVitality (11)	EuropeHEROIC (13)
 Mirage
 IEM Rio 2024
 8/10/24
+United StatesComplexity (12)	EuropeMOUZ (16)
+Inferno
+IEM Rio 2024
+8/10/24
+EuropeMOUZ (16)	United StatesComplexity (12)
+Vertigo
+IEM Rio 2024
+8/10/24
+OtherLiquid (7)	EuropeFaZe (13)
+Dust2
+IEM Rio 2024
+8/10/24
+EuropeFaZe (13)	OtherLiquid (6)
+Inferno
+IEM Rio 2024
+8/10/24
 TurkeyEternal Fire (13)	EuropeG2 (6)
 Mirage
+IEM Rio 2024
+8/10/24
+TurkeyEternal Fire (13)	EuropeG2 (4)
+Anubis
+IEM Rio 2024
+7/10/24
+EuropeNatus Vincere (13)	OtherLiquid (11)
+Ancient
+IEM Rio 2024
+7/10/24
+OtherLiquid (5)	EuropeNatus Vincere (13)
+Dust2
+IEM Rio 2024
+7/10/24
+EuropeNatus Vincere (4)	OtherLiquid (13)
+Inferno
+IEM Rio 2024
+7/10/24
+EuropeMOUZ (5)	BrazilFURIA (13)
+Dust2
 IEM Rio 2024
 7/10/24
 BrazilFURIA (5)	EuropeMOUZ (13)
 Mirage
 IEM Rio 2024
+7/10/24
+EuropeMOUZ (8)	BrazilFURIA (13)
+Nuke
+IEM Rio 2024
+7/10/24
+EuropeG2 (10)	EuropeHEROIC (13)
+Dust2
+IEM Rio 2024
+7/10/24
+United StatesComplexity (6)	OtherLiquid (13)
+Inferno
+IEM Rio 2024
+7/10/24
+EuropeFaZe (7)	BrazilFURIA (13)
+Dust2
+IEM Rio 2024
+29/9/24
+EuropeNatus Vincere (7)	EuropeG2 (13)
+Inferno
+BLAST Premier Fall Final 2024
 29/9/24
 EuropeG2 (11)	EuropeNatus Vincere (13)
 Mirage
 BLAST Premier Fall Final 2024
+29/9/24
+EuropeNatus Vincere (11)	EuropeG2 (13)
+Dust2
+BLAST Premier Fall Final 2024
+29/9/24
+EuropeG2 (13)	EuropeNatus Vincere (9)
+Ancient
+BLAST Premier Fall Final 2024
+28/9/24
+EuropeFaZe (2)	EuropeNatus Vincere (13)
+Anubis
+BLAST Premier Fall Final 2024
+28/9/24
+EuropeFaZe (11)	EuropeNatus Vincere (13)
+Ancient
+BLAST Premier Fall Final 2024
+28/9/24
+EuropeNatus Vincere (10)	EuropeFaZe (13)
+Inferno
+BLAST Premier Fall Final 2024
 28/9/24
 EuropeG2 (16)	EuropeVitality (14)
 Mirage
+BLAST Premier Fall Final 2024
+28/9/24
+EuropeG2 (13)	EuropeVitality (7)
+Dust2
+BLAST Premier Fall Final 2024
+28/9/24
+EuropeVitality (13)	EuropeG2 (9)
+Anubis
 BLAST Premier Fall Final 2024
 27/9/24
 EuropeFaZe (13)	OtherLiquid (3)
 Mirage
 BLAST Premier Fall Final 2024
 27/9/24
+OtherLiquid (6)	EuropeFaZe (13)
+Inferno
+BLAST Premier Fall Final 2024
+27/9/24
 RussiaSpirit (13)	EuropeG2 (16)
 Mirage
+BLAST Premier Fall Final 2024
+27/9/24
+EuropeG2 (13)	RussiaSpirit (9)
+Dust2
+BLAST Premier Fall Final 2024
+26/9/24
+OtherLiquid (11)	EuropeVitality (13)
+Nuke
+BLAST Premier Fall Final 2024
+26/9/24
+EuropeVitality (16)	OtherLiquid (12)
+Anubis
 BLAST Premier Fall Final 2024
 26/9/24
 DenmarkAstralis (11)	RussiaSpirit (13)
 Mirage
 BLAST Premier Fall Final 2024
+26/9/24
+DenmarkAstralis (5)	RussiaSpirit (13)
+Dust2
+BLAST Premier Fall Final 2024
+26/9/24
+RussiaSpirit (3)	DenmarkAstralis (13)
+Ancient
+BLAST Premier Fall Final 2024
+26/9/24
+EuropeG2 (9)	EuropeNatus Vincere (13)
+Ancient
+BLAST Premier Fall Final 2024
+26/9/24
+EuropeNatus Vincere (13)	EuropeG2 (9)
+Dust2
+BLAST Premier Fall Final 2024
+25/9/24
+OtherLiquid (13)	RussiaSpirit (10)
+Anubis
+BLAST Premier Fall Final 2024
+25/9/24
+OtherLiquid (13)	RussiaSpirit (11)
+Nuke
+BLAST Premier Fall Final 2024
+25/9/24
+RussiaSpirit (13)	OtherLiquid (3)
+Dust2
+BLAST Premier Fall Final 2024
+25/9/24
+DenmarkAstralis (4)	EuropeVitality (13)
+Dust2
+BLAST Premier Fall Final 2024
+25/9/24
+EuropeVitality (13)	DenmarkAstralis (0)
+Inferno
+BLAST Premier Fall Final 2024
 25/9/24
 EuropeG2 (13)	EuropeFaZe (9)
 Mirage
 BLAST Premier Fall Final 2024
+25/9/24
+EuropeFaZe (13)	EuropeG2 (6)
+Inferno
+BLAST Premier Fall Final 2024
+25/9/24
+EuropeG2 (13)	EuropeFaZe (7)
+Dust2
+BLAST Premier Fall Final 2024
+22/9/24
+TurkeyEternal Fire (10)	EuropeNatus Vincere (13)
+Dust2
+ESL Pro League Season 20
+22/9/24
+EuropeNatus Vincere (4)	TurkeyEternal Fire (13)
+Inferno
+ESL Pro League Season 20
+22/9/24
+TurkeyEternal Fire (11)	EuropeNatus Vincere (13)
+Ancient
+ESL Pro League Season 20
+22/9/24
+TurkeyEternal Fire (11)	EuropeNatus Vincere (13)
+Anubis
+ESL Pro League Season 20
+22/9/24
+TurkeyEternal Fire (13)	EuropeNatus Vincere (8)
+Nuke
+ESL Pro League Season 20
+21/9/24
+EuropeNatus Vincere (13)	EuropeG2 (6)
+Ancient
+ESL Pro League Season 20
+21/9/24
+EuropeG2 (13)	EuropeNatus Vincere (11)
+Nuke
+ESL Pro League Season 20
+21/9/24
+EuropeNatus Vincere (13)	EuropeG2 (8)
+Inferno
+ESL Pro League Season 20
+20/9/24
+EuropeG2 (13)	OtherLiquid (3)
+Nuke
+ESL Pro League Season 20
 20/9/24
 OtherLiquid (13)	EuropeG2 (5)
 Mirage
 ESL Pro League Season 20
 20/9/24
+EuropeG2 (13)	OtherLiquid (3)
+Inferno
+ESL Pro League Season 20
+20/9/24
 RussiaSpirit (9)	EuropeNatus Vincere (13)
 Mirage
+ESL Pro League Season 20
+20/9/24
+EuropeNatus Vincere (13)	RussiaSpirit (5)
+Dust2
+ESL Pro League Season 20
+19/9/24
+EuropeVitality (20)	TurkeyEternal Fire (22)
+Inferno
+ESL Pro League Season 20
+19/9/24
+TurkeyEternal Fire (5)	EuropeVitality (13)
+Nuke
+ESL Pro League Season 20
+19/9/24
+TurkeyEternal Fire (16)	EuropeVitality (14)
+Anubis
+ESL Pro League Season 20
+18/9/24
+United StatesComplexity (7)	OtherLiquid (13)
+Anubis
+ESL Pro League Season 20
+18/9/24
+OtherLiquid (13)	United StatesComplexity (2)
+Nuke
+ESL Pro League Season 20
+17/9/24
+United StatesComplexity (13)	EuropeFaZe (9)
+Dust2
+ESL Pro League Season 20
+17/9/24
+EuropeFaZe (10)	United StatesComplexity (13)
+Anubis
+ESL Pro League Season 20
+17/9/24
+BrazilFURIA (11)	RussiaSpirit (13)
+Anubis
+ESL Pro League Season 20
+17/9/24
+RussiaSpirit (13)	BrazilFURIA (9)
+Nuke
+ESL Pro League Season 20
+15/9/24
+EuropeVitality (13)	OtherLiquid (9)
+Dust2
+ESL Pro League Season 20
+15/9/24
+OtherLiquid (5)	EuropeVitality (13)
+Nuke
+ESL Pro League Season 20
+15/9/24
+EuropeVitality (10)	OtherLiquid (13)
+Anubis
+ESL Pro League Season 20
+15/9/24
+United StatesComplexity (13)	EuropeMOUZ (10)
+Ancient
+ESL Pro League Season 20
+15/9/24
+EuropeMOUZ (8)	United StatesComplexity (13)
+Vertigo
+ESL Pro League Season 20
+14/9/24
+United StatesComplexity (16)	DenmarkAstralis (14)
+Nuke
+ESL Pro League Season 20
+14/9/24
+United StatesComplexity (6)	DenmarkAstralis (13)
+Inferno
+ESL Pro League Season 20
+14/9/24
+DenmarkAstralis (10)	United StatesComplexity (13)
+Vertigo
+ESL Pro League Season 20
+12/9/24
+United StatesComplexity (13)	EuropeMOUZ (6)
+Nuke
+ESL Pro League Season 20
+12/9/24
+EuropeMOUZ (8)	United StatesComplexity (13)
+Vertigo
+ESL Pro League Season 20
+12/9/24
+OtherLiquid (13)	RussiaVirtus.pro (6)
+Dust2
+ESL Pro League Season 20
+12/9/24
+RussiaVirtus.pro (7)	OtherLiquid (13)
+Ancient
+ESL Pro League Season 20
+11/9/24
+United StatesComplexity (16)	DenmarkAstralis (14)
+Inferno
+ESL Pro League Season 20
+11/9/24
+DenmarkAstralis (17)	United StatesComplexity (19)
+Vertigo
 ESL Pro League Season 20
 7/9/24
 TurkeyEternal Fire (5)	EuropeNatus Vincere (13)
 Mirage
 ESL Pro League Season 20
+7/9/24
+TurkeyEternal Fire (20)	EuropeNatus Vincere (22)
+Anubis
+ESL Pro League Season 20
+6/9/24
+MongoliaThe MongolZ (11)	RussiaSpirit (13)
+Nuke
+ESL Pro League Season 20
+6/9/24
+RussiaSpirit (13)	MongoliaThe MongolZ (4)
+Anubis
+ESL Pro League Season 20
+6/9/24
+RussiaSpirit (9)	MongoliaThe MongolZ (13)
+Ancient
+ESL Pro League Season 20
 1/9/24
 TurkeyEternal Fire (9)	RussiaSpirit (13)
 Mirage
+BetBoom Dacha Belgrade Season 2
+1/9/24
+RussiaSpirit (13)	TurkeyEternal Fire (8)
+Vertigo
+BetBoom Dacha Belgrade Season 2
+1/9/24
+TurkeyEternal Fire (7)	RussiaSpirit (13)
+Nuke
+BetBoom Dacha Belgrade Season 2
+31/8/24
+TurkeyEternal Fire (19)	EuropeMOUZ (17)
+Nuke
+BetBoom Dacha Belgrade Season 2
+31/8/24
+EuropeMOUZ (10)	TurkeyEternal Fire (13)
+Dust2
+BetBoom Dacha Belgrade Season 2
+30/8/24
+RussiaSpirit (13)	EuropeMOUZ (11)
+Ancient
 BetBoom Dacha Belgrade Season 2
 30/8/24
 RussiaSpirit (14)	EuropeMOUZ (16)
 Mirage
 BetBoom Dacha Belgrade Season 2
+30/8/24
+EuropeMOUZ (9)	RussiaSpirit (13)
+Nuke
+BetBoom Dacha Belgrade Season 2
+29/8/24
+TurkeyEternal Fire (13)	EuropeHEROIC (10)
+Anubis
+BetBoom Dacha Belgrade Season 2
 29/8/24
 TurkeyEternal Fire (13)	EuropeHEROIC (7)
 Mirage
 BetBoom Dacha Belgrade Season 2
+28/8/24
+TurkeyEternal Fire (3)	EuropeMOUZ (13)
+Nuke
+BetBoom Dacha Belgrade Season 2
+28/8/24
+EuropeMOUZ (13)	TurkeyEternal Fire (8)
+Inferno
+BetBoom Dacha Belgrade Season 2
+18/8/24
+EuropeNatus Vincere (9)	EuropeVitality (13)
+Inferno
+IEM Cologne 2024
 18/8/24
 EuropeVitality (22)	EuropeNatus Vincere (20)
 Mirage
+IEM Cologne 2024
+18/8/24
+EuropeVitality (10)	EuropeNatus Vincere (13)
+Dust2
+IEM Cologne 2024
+18/8/24
+EuropeVitality (16)	EuropeNatus Vincere (14)
+Nuke
 IEM Cologne 2024
 17/8/24
 EuropeMOUZ (11)	EuropeNatus Vincere (13)
 Mirage
 IEM Cologne 2024
+17/8/24
+EuropeNatus Vincere (16)	EuropeMOUZ (14)
+Inferno
+IEM Cologne 2024
+17/8/24
+PortugalSAW (5)	EuropeVitality (13)
+Dust2
+IEM Cologne 2024
+17/8/24
+EuropeVitality (13)	PortugalSAW (6)
+Nuke
+IEM Cologne 2024
 16/8/24
 EuropeG2 (8)	EuropeMOUZ (13)
 Mirage
+IEM Cologne 2024
+16/8/24
+EuropeMOUZ (13)	EuropeG2 (9)
+Dust2
+IEM Cologne 2024
+16/8/24
+PortugalSAW (16)	EuropeFaZe (14)
+Nuke
+IEM Cologne 2024
+16/8/24
+PortugalSAW (11)	EuropeFaZe (13)
+Anubis
+IEM Cologne 2024
+16/8/24
+PortugalSAW (13)	EuropeFaZe (6)
+Inferno
+IEM Cologne 2024
+13/8/24
+EuropeVitality (16)	EuropeMOUZ (13)
+Vertigo
+IEM Cologne 2024
+13/8/24
+EuropeMOUZ (6)	EuropeVitality (13)
+Dust2
 IEM Cologne 2024
 13/8/24
 OtherLiquid (13)	EuropeFaZe (16)
 Mirage
 IEM Cologne 2024
+13/8/24
+OtherLiquid (16)	EuropeFaZe (13)
+Nuke
+IEM Cologne 2024
+13/8/24
+EuropeFaZe (13)	OtherLiquid (9)
+Inferno
+IEM Cologne 2024
+13/8/24
+EuropeNatus Vincere (13)	PortugalSAW (6)
+Inferno
+IEM Cologne 2024
+13/8/24
+PortugalSAW (2)	EuropeNatus Vincere (13)
+Ancient
+IEM Cologne 2024
+13/8/24
+EuropeNatus Vincere (9)	PortugalSAW (13)
+Nuke
+IEM Cologne 2024
+13/8/24
+OtherLiquid (13)	United StatesComplexity (5)
+Anubis
+IEM Cologne 2024
+13/8/24
+United StatesComplexity (10)	OtherLiquid (13)
+Ancient
+IEM Cologne 2024
+12/8/24
+DenmarkAstralis (3)	EuropeG2 (13)
+Ancient
+IEM Cologne 2024
 12/8/24
 DenmarkAstralis (13)	EuropeG2 (10)
 Mirage
+IEM Cologne 2024
+12/8/24
+EuropeG2 (13)	DenmarkAstralis (1)
+Dust2
+IEM Cologne 2024
+12/8/24
+United StatesComplexity (11)	EuropeMOUZ (13)
+Nuke
+IEM Cologne 2024
+12/8/24
+EuropeMOUZ (13)	United StatesComplexity (9)
+Vertigo
+IEM Cologne 2024
+12/8/24
+EuropeVitality (13)	EuropeFaZe (9)
+Anubis
+IEM Cologne 2024
+12/8/24
+EuropeFaZe (12)	EuropeVitality (16)
+Dust2
+IEM Cologne 2024
+12/8/24
+EuropeVitality (8)	EuropeFaZe (13)
+Inferno
 IEM Cologne 2024
 11/8/24
 RussiaSpirit (1)	EuropeG2 (13)
 Mirage
 IEM Cologne 2024
 11/8/24
+EuropeG2 (13)	RussiaSpirit (3)
+Nuke
+IEM Cologne 2024
+11/8/24
 DenmarkAstralis (7)	EuropeNatus Vincere (13)
 Mirage
+IEM Cologne 2024
+11/8/24
+EuropeNatus Vincere (13)	DenmarkAstralis (4)
+Ancient
+IEM Cologne 2024
+11/8/24
+MongoliaThe MongolZ (10)	PortugalSAW (13)
+Anubis
+IEM Cologne 2024
+11/8/24
+MongoliaThe MongolZ (7)	PortugalSAW (13)
+Nuke
+IEM Cologne 2024
+11/8/24
+PortugalSAW (13)	MongoliaThe MongolZ (16)
+Ancient
+IEM Cologne 2024
+10/8/24
+MongoliaThe MongolZ (13)	RussiaSpirit (4)
+Anubis
+IEM Cologne 2024
+10/8/24
+RussiaSpirit (13)	MongoliaThe MongolZ (16)
+Ancient
+IEM Cologne 2024
+10/8/24
+PortugalSAW (13)	EuropeG2 (10)
+Inferno
+IEM Cologne 2024
+10/8/24
+EuropeG2 (5)	PortugalSAW (13)
+Nuke
+IEM Cologne 2024
+10/8/24
+United StatesComplexity (13)	RussiaVirtus.pro (5)
+Anubis
+IEM Cologne 2024
+10/8/24
+United StatesComplexity (14)	RussiaVirtus.pro (16)
+Dust2
+IEM Cologne 2024
+10/8/24
+RussiaVirtus.pro (6)	United StatesComplexity (13)
+Vertigo
+IEM Cologne 2024
+10/8/24
+OtherLiquid (10)	EuropeFaZe (13)
+Nuke
 IEM Cologne 2024
 10/8/24
 EuropeFaZe (13)	OtherLiquid (11)
 Mirage
 IEM Cologne 2024
+7/8/24
+MongoliaThe MongolZ (5)	PortugalSAW (13)
+Dust2
+IEM Cologne 2024 Play-in
+7/8/24
+PortugalSAW (5)	MongoliaThe MongolZ (13)
+Ancient
+IEM Cologne 2024 Play-in
+7/8/24
+PortugalSAW (16)	MongoliaThe MongolZ (13)
+Anubis
+IEM Cologne 2024 Play-in
+4/8/24
+United StatesComplexity (6)	EuropeNatus Vincere (13)
+Nuke
+BLAST Premier Fall Groups 2024
+4/8/24
+United StatesComplexity (11)	EuropeNatus Vincere (13)
+Anubis
+BLAST Premier Fall Groups 2024
+3/8/24
+EuropeNatus Vincere (10)	OtherLiquid (13)
+Inferno
+BLAST Premier Fall Groups 2024
+3/8/24
+OtherLiquid (16)	EuropeNatus Vincere (14)
+Anubis
+BLAST Premier Fall Groups 2024
+3/8/24
+EuropeNatus Vincere (13)	OtherLiquid (9)
+Nuke
+BLAST Premier Fall Groups 2024
+3/8/24
+DenmarkAstralis (7)	EuropeVitality (13)
+Nuke
+BLAST Premier Fall Groups 2024
 3/8/24
 DenmarkAstralis (10)	EuropeVitality (13)
 Mirage
+BLAST Premier Fall Groups 2024
+3/8/24
+EuropeVitality (10)	DenmarkAstralis (13)
+Vertigo
+BLAST Premier Fall Groups 2024
+3/8/24
+United StatesComplexity (10)	RussiaSpirit (13)
+Nuke
+BLAST Premier Fall Groups 2024
+3/8/24
+RussiaSpirit (13)	United StatesComplexity (6)
+Anubis
+BLAST Premier Fall Groups 2024
+3/8/24
+United StatesComplexity (19)	RussiaSpirit (16)
+Dust2
+BLAST Premier Fall Groups 2024
+2/8/24
+United StatesComplexity (13)	EuropeHEROIC (11)
+Ancient
+BLAST Premier Fall Groups 2024
+2/8/24
+United StatesComplexity (13)	EuropeHEROIC (5)
+Anubis
+BLAST Premier Fall Groups 2024
+1/8/24
+OtherLiquid (13)	EuropeNatus Vincere (11)
+Inferno
 BLAST Premier Fall Groups 2024
 1/8/24
 OtherLiquid (2)	EuropeNatus Vincere (13)
 Mirage
 BLAST Premier Fall Groups 2024
 1/8/24
+OtherLiquid (13)	EuropeNatus Vincere (11)
+Anubis
+BLAST Premier Fall Groups 2024
+1/8/24
 EuropeG2 (13)	EuropeFaZe (6)
 Mirage
 BLAST Premier Fall Groups 2024
+1/8/24
+EuropeG2 (13)	EuropeFaZe (6)
+Nuke
+BLAST Premier Fall Groups 2024
+1/8/24
+EuropeFaZe (13)	EuropeG2 (9)
+Ancient
+BLAST Premier Fall Groups 2024
+31/7/24
+OtherLiquid (13)	RussiaVirtus.pro (6)
+Dust2
+BLAST Premier Fall Groups 2024
+31/7/24
+RussiaVirtus.pro (20)	OtherLiquid (22)
+Ancient
+BLAST Premier Fall Groups 2024
+30/7/24
+DenmarkAstralis (11)	EuropeVitality (13)
+Dust2
+BLAST Premier Fall Groups 2024
+30/7/24
+EuropeVitality (13)	DenmarkAstralis (7)
+Nuke
+BLAST Premier Fall Groups 2024
+30/7/24
+RussiaSpirit (13)	EuropeHEROIC (6)
+Anubis
+BLAST Premier Fall Groups 2024
+30/7/24
+RussiaSpirit (13)	EuropeHEROIC (11)
+Vertigo
+BLAST Premier Fall Groups 2024
+29/7/24
+EuropeHEROIC (16)	United StatesComplexity (14)
+Vertigo
+BLAST Premier Fall Groups 2024
+29/7/24
+United StatesComplexity (8)	EuropeHEROIC (13)
+Ancient
+BLAST Premier Fall Groups 2024
+21/7/24
+EuropeG2 (6)	EuropeNatus Vincere (13)
+Inferno
+Esports World Cup 2024
+21/7/24
+EuropeG2 (6)	EuropeNatus Vincere (13)
+Nuke
+Esports World Cup 2024
+21/7/24
+EuropeNatus Vincere (14)	EuropeG2 (16)
+Ancient
+Esports World Cup 2024
 20/7/24
 EuropeNatus Vincere (13)	EuropeMOUZ (5)
 Mirage
 Esports World Cup 2024
+20/7/24
+EuropeNatus Vincere (13)	EuropeMOUZ (8)
+Nuke
+Esports World Cup 2024
+20/7/24
+EuropeMOUZ (13)	EuropeNatus Vincere (1)
+Dust2
+Esports World Cup 2024
+20/7/24
+RussiaVirtus.pro (7)	EuropeG2 (13)
+Ancient
+Esports World Cup 2024
+20/7/24
+EuropeG2 (13)	RussiaVirtus.pro (4)
+Dust2
+Esports World Cup 2024
+19/7/24
+EuropeNatus Vincere (16)	EuropeFaZe (12)
+Nuke
+Esports World Cup 2024
 19/7/24
 EuropeFaZe (10)	EuropeNatus Vincere (13)
 Mirage
+Esports World Cup 2024
+19/7/24
+EuropeVitality (5)	RussiaVirtus.pro (13)
+Dust2
+Esports World Cup 2024
+19/7/24
+RussiaVirtus.pro (13)	EuropeVitality (7)
+Inferno
 Esports World Cup 2024
 19/7/24
 EuropeVitality (22)	RussiaVirtus.pro (20)
 Mirage
 Esports World Cup 2024
 18/7/24
+RussiaSpirit (5)	EuropeG2 (13)
+Ancient
+Esports World Cup 2024
+18/7/24
+EuropeG2 (14)	RussiaSpirit (16)
+Nuke
+Esports World Cup 2024
+18/7/24
 RussiaSpirit (8)	EuropeG2 (13)
 Mirage
 Esports World Cup 2024
+17/7/24
+United StatesComplexity (4)	RussiaVirtus.pro (13)
+Dust2
+Esports World Cup 2024
+17/7/24
+United StatesComplexity (9)	RussiaVirtus.pro (13)
+Anubis
+Esports World Cup 2024
+17/7/24
+MongoliaThe MongolZ (13)	EuropeG2 (16)
+Inferno
+Esports World Cup 2024
+17/7/24
+EuropeG2 (13)	MongoliaThe MongolZ (11)
+Ancient
+Esports World Cup 2024
+16/6/24
+RussiaSpirit (13)	EuropeNatus Vincere (6)
+Nuke
+BLAST Premier Spring Final 2024
 16/6/24
 EuropeNatus Vincere (13)	RussiaSpirit (4)
 Mirage
-BLAST Premier Spring Final
+BLAST Premier Spring Final 2024
+16/6/24
+RussiaSpirit (13)	EuropeNatus Vincere (9)
+Dust2
+BLAST Premier Spring Final 2024
+16/6/24
+EuropeNatus Vincere (9)	RussiaSpirit (13)
+Ancient
+BLAST Premier Spring Final 2024
 15/6/24
 RussiaVirtus.pro (9)	EuropeNatus Vincere (13)
 Mirage
+BLAST Premier Spring Final 2024
+15/6/24
+RussiaVirtus.pro (5)	EuropeNatus Vincere (13)
+Anubis
+BLAST Premier Spring Final 2024
+15/6/24
+RussiaSpirit (13)	EuropeVitality (9)
+Anubis
+BLAST Premier Spring Final 2024
+15/6/24
+RussiaSpirit (13)	EuropeVitality (9)
+Dust2
 BLAST Premier Spring Final 2024
 15/6/24
 EuropeVitality (13)	RussiaSpirit (11)
 Mirage
 BLAST Premier Spring Final 2024
 14/6/24
+DenmarkAstralis (10)	RussiaVirtus.pro (13)
+Dust2
+BLAST Premier Spring Final 2024
+14/6/24
+RussiaVirtus.pro (13)	DenmarkAstralis (8)
+Inferno
+BLAST Premier Spring Final 2024
+14/6/24
 EuropeFaZe (6)	EuropeVitality (13)
 Mirage
+BLAST Premier Spring Final 2024
+14/6/24
+EuropeVitality (13)	EuropeFaZe (10)
+Dust2
+BLAST Premier Spring Final 2024
+14/6/24
+EuropeVitality (4)	EuropeFaZe (13)
+Inferno
+BLAST Premier Spring Final 2024
+13/6/24
+RussiaSpirit (13)	RussiaVirtus.pro (11)
+Dust2
+BLAST Premier Spring Final 2024
+13/6/24
+RussiaVirtus.pro (4)	RussiaSpirit (13)
+Ancient
 BLAST Premier Spring Final 2024
 13/6/24
 EuropeVitality (13)	EuropeG2 (5)
 Mirage
 BLAST Premier Spring Final 2024
 13/6/24
+EuropeVitality (9)	EuropeG2 (13)
+Anubis
+BLAST Premier Spring Final 2024
+13/6/24
+EuropeVitality (13)	EuropeG2 (4)
+Inferno
+BLAST Premier Spring Final 2024
+13/6/24
 EuropeFaZe (10)	EuropeNatus Vincere (13)
 Mirage
 BLAST Premier Spring Final 2024
-1/6/24
-EuropeVitality (13)	RussiaSpirit (11)
-Mirage
-IEM Dallas 2024
-29/5/24
-DenmarkHEROIC (13)	EuropeNatus Vincere (9)
-Mirage
-IEM Dallas 2024
-28/5/24
-EuropeFaZe (10)	RussiaVirtus.pro (13)
-Mirage
-IEM Dallas 2024
+13/6/24
+EuropeNatus Vincere (9)	EuropeFaZe (13)
+Nuke
+BLAST Premier Spring Final 2024
+13/6/24
+EuropeFaZe (5)	EuropeNatus Vincere (13)
+Dust2
+BLAST Premier Spring Final 2024

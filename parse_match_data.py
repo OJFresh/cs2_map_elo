@@ -26,6 +26,7 @@ def create_matches_database():
         file = f.readlines()
         for i in range(0, len(file), 4):
             filtered_date = file[i].replace('\n', '')
+            print(filtered_date)
             day, month, year = filtered_date.split('/')
             game_date = date(2000 + int(year), int(month), int(day))
             teams = file[i + 1].replace('\n', '')
@@ -50,6 +51,7 @@ def create_matches_database():
         'win_score': winner_scores,
         'lose_score': loser_scores,
     }
+    print(matches_dict)
     df = pd.DataFrame(matches_dict)
     df.to_csv('config/match_data.csv', index=False)
 
