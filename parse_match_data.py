@@ -1,5 +1,6 @@
 from datetime import date
 import pandas as pd
+import re
 
 from match import Match
 
@@ -24,25 +25,15 @@ def create_matches_database():
     loser_scores = []
     with open('config/raw_match_data.txt', 'r') as f:
         file = f.readlines()
-        for i in range(0, len(file), 4):
-            filtered_date = file[i].replace('\n', '')
-            print(filtered_date)
-            day, month, year = filtered_date.split('/')
-            game_date = date(2000 + int(year), int(month), int(day))
-            teams = file[i + 1].replace('\n', '')
-            map_name = file[i + 2].replace('\n', '')
-            team_a, team_b= teams.split('\t')
-            name_winner, score_winner = name_score_parser(team_a)
-            name_loser, score_loser = name_score_parser(team_b)
-            if score_loser > score_winner:
-                name_winner, score_winner = name_score_parser(team_b)
-                name_loser, score_loser = name_score_parser(team_a)
-            dates.append(game_date)
-            map_names.append(map_name)
-            winner_names.append(name_winner)
-            loser_names.append(name_loser)
-            winner_scores.append(score_winner)
-            loser_scores.append(score_loser)
+        matches = [file[n:n+4] for n in range(0, len(file), 4)]
+        for match in matches:
+            parsed_match_data = parse_match(match)
+            dates.append(parsed_match_data[0])
+            winner_names.append(parsed_match_data[1])
+            winner_scores.append(parsed_match_data[2])
+            loser_names.append(parsed_match_data[3])
+            loser_scores.append(parsed_match_data[4])
+            map_names.append(parsed_match_data[5])
     matches_dict = {
         'date': dates,
         'map_name': map_names,
@@ -51,10 +42,17 @@ def create_matches_database():
         'win_score': winner_scores,
         'lose_score': loser_scores,
     }
-    print(matches_dict)
     df = pd.DataFrame(matches_dict)
     df.to_csv('config/match_data.csv', index=False)
 
+def parse_match(match_lines):
+    match_date, teams_scores, map_name, event_name = [line.replace('\n', '') for line in match_lines]
+    day, month, year = match_date.split('/')
+    game_date = date(2000 + int(year), int(month), int(day))
+    filtered_team_scores = re.findall(r'\w+ *\.*\w*', teams_scores)
+    if int(filtered_team_scores[1]) < int(filtered_team_scores[3]):
+        filtered_team_scores = filtered_team_scores[2:4] + filtered_team_scores[:2]
+    return [game_date] + filtered_team_scores + [map_name, event_name]
 
 def build_empty_elo_df():
     matches = pd.read_csv('config/match_data.csv')
@@ -62,7 +60,7 @@ def build_empty_elo_df():
     teams = set(list(matches['win_team']) + list(matches['lose_team']))
     df_dict = {'team_name': list(teams)}
     for map_name in maps:
-        df_dict[map_name] = [0]*len(teams)
+        df_dict[map_name] = [0.0]*len(teams)
     df = pd.DataFrame(df_dict)
     df.to_csv('config/elo.csv', index=False)
 
@@ -72,3 +70,5 @@ def populate_elo_database():
     for i, x in matches.iterrows():
         kwargs = x.to_dict()
         Match(**kwargs).modify_elo()
+
+create_matches_database()

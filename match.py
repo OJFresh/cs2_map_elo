@@ -19,9 +19,9 @@ class Match:
         winner_elo = df.loc[self.win_team, self.map_name]
         loser_elo = df.loc[self.lose_team, self.map_name]
         if not winner_elo:
-            winner_elo = 100
+            winner_elo = 100.0
         if not loser_elo:
-            loser_elo = 100
+            loser_elo = 100.0
         diff = 1 - 1*(winner_elo - loser_elo)/8
         df.loc[self.win_team, self.map_name] = winner_elo + diff
         df.loc[self.lose_team, self.map_name] = loser_elo - diff

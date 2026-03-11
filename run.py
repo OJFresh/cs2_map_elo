@@ -3,7 +3,7 @@ from parse_match_data import create_matches_database, build_empty_elo_df, popula
 
 
 def execute():
-    create_matches_database()
+    # create_matches_database()
     build_empty_elo_df()
     populate_elo_database()
 

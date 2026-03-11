@@ -31,6 +31,6 @@ class Analyser:
         print(f'{elo_diff[3][0]} remaining (Diff: {elo_diff[3][1]})')
 
 def execute():
-    pp(Analyser().elo_diff('FaZe', 'G2'))
+    pp(Analyser().elo_diff('EuropeVitality ', 'EuropeMOUZ '))
 
 execute()
