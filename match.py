@@ -16,13 +16,16 @@ class Match:
 
     def modify_elo(self):
         df = self.elo_dataframe
-        winner_elo = df.loc[self.win_team, self.map_name]
-        loser_elo = df.loc[self.lose_team, self.map_name]
+        try:
+            winner_elo = df.loc[self.win_team, self.map_name]
+            loser_elo = df.loc[self.lose_team, self.map_name]
+        except KeyError:
+            return
         if not winner_elo:
             winner_elo = 100.0
         if not loser_elo:
             loser_elo = 100.0
-        diff = 1 - 1*(winner_elo - loser_elo)/8
+        diff = 1 - (winner_elo - loser_elo)/5
         df.loc[self.win_team, self.map_name] = winner_elo + diff
         df.loc[self.lose_team, self.map_name] = loser_elo - diff
         print(f'{self.win_team} beat {self.lose_team} on map {self.map_name}')

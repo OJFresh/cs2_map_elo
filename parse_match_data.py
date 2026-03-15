@@ -2,6 +2,7 @@ from datetime import date
 import pandas as pd
 import re
 
+from elo_db import TEAM_RANKINGS
 from match import Match
 
 
@@ -51,26 +52,17 @@ def parse_match(match_lines):
     day, month, year = match_date.split('/')
     game_date = date(2000 + int(year), int(month), int(day))
     filtered_team_scores = re.findall(r'\w+ *\.*\w*', teams_scores)
+    change_team_names(filtered_team_scores)
     if int(filtered_team_scores[1]) < int(filtered_team_scores[3]):
         filtered_team_scores = filtered_team_scores[2:4] + filtered_team_scores[:2]
     return [game_date] + filtered_team_scores + [map_name, event_name]
 
+def change_team_names(team_scores):
+    for x in [0,2]:
+        for name in TEAM_RANKINGS:
+            if name in team_scores[x]:
+                team_scores[x] = name
+                break
 
-def build_empty_elo_df():
-    matches = pd.read_csv('config/match_data.csv')
-    maps = set(matches['map_name'])
-    teams = set(list(matches['win_team']) + list(matches['lose_team']))
-    df_dict = {'team_name': list(teams)}
-    for map_name in maps:
-        df_dict[map_name] = [0.0]*len(teams)
-    df = pd.DataFrame(df_dict)
-    df.to_csv('config/elo.csv', index=False)
-
-
-def populate_elo_database():
-    matches = pd.read_csv('config/match_data.csv')
-    for i, x in matches.iterrows():
-        kwargs = x.to_dict()
-        Match(**kwargs).modify_elo()
-
-create_matches_database()
+if __name__ == '__main__':
+    create_matches_database()

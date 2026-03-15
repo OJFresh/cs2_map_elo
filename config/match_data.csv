@@ -1,351 +1,351 @@
 date,map_name,win_team,lose_team,win_score,lose_score
-2026-03-10,Inferno,DenmarkAstralis ,BrazilFURIA ,13,4
-2026-03-10,Dust2,BrazilFURIA ,DenmarkAstralis ,13,9
-2026-03-10,Nuke,DenmarkAstralis ,BrazilFURIA ,13,4
-2026-03-10,Overpass,EuropeFUT ,EuropeG2 ,13,11
-2026-03-10,Dust2,EuropeFUT ,EuropeG2 ,13,11
-2026-03-10,Mirage,EuropeG2 ,EuropeFUT ,13,4
-2026-03-10,Ancient,EuropeNatus Vincere,France3DMAX ,13,5
-2026-03-10,Inferno,France3DMAX ,EuropeNatus Vincere,13,5
-2026-03-10,Dust2,EuropeNatus Vincere,France3DMAX ,13,5
-2026-03-09,Anubis,TurkeyAurora ,EuropeG2 ,13,11
-2026-03-09,Mirage,TurkeyAurora ,EuropeG2 ,13,10
-2026-03-09,Dust2,BrazilFURIA ,BrazilpaiN ,13,8
-2026-03-09,Inferno,BrazilFURIA ,BrazilpaiN ,13,6
-2026-03-09,Inferno,DenmarkAstralis ,EuropeFaZe ,16,14
-2026-03-09,Ancient,DenmarkAstralis ,EuropeFaZe ,13,3
-2026-03-09,Dust2,EuropeFaZe ,DenmarkAstralis ,13,7
-2026-03-09,Inferno,MongoliaThe MongolZ,France3DMAX ,13,10
-2026-03-09,Ancient,France3DMAX ,MongoliaThe MongolZ,13,4
-2026-03-09,Dust2,MongoliaThe MongolZ,France3DMAX ,13,10
-2026-03-09,Anubis,EuropeFUT ,UkraineB8 ,13,3
-2026-03-09,Dust2,EuropeFUT ,UkraineB8 ,13,8
-2026-03-08,Anubis,RussiaSpirit ,EuropeG2 ,13,10
-2026-03-08,Ancient,RussiaSpirit ,EuropeG2 ,13,9
-2026-03-08,Inferno,BrazilFURIA ,SwedenHEROIC ,13,9
-2026-03-08,Overpass,SwedenHEROIC ,BrazilFURIA ,13,3
-2026-03-08,Dust2,BrazilFURIA ,SwedenHEROIC ,13,8
-2026-03-08,Overpass,EuropeMOUZ ,MongoliaThe MongolZ,13,11
-2026-03-08,Ancient,EuropeMOUZ ,MongoliaThe MongolZ,13,1
-2026-03-08,Inferno,EuropeNatus Vincere,UkraineB8 ,13,7
-2026-03-08,Mirage,EuropeNatus Vincere,UkraineB8 ,16,14
-2026-03-08,Ancient,France3DMAX ,EuropeFUT ,13,11
-2026-03-08,Dust2,France3DMAX ,EuropeFUT ,13,5
-2026-03-08,Overpass,TurkeyAurora ,BrazilpaiN ,13,7
-2026-03-08,Nuke,TurkeyAurora ,BrazilpaiN ,13,9
-2026-03-07,Anubis,RussiaSpirit ,UkraineB8 ,13,7
-2026-03-07,Nuke,RussiaSpirit ,UkraineB8 ,13,9
-2026-03-07,Mirage,UkraineB8 ,RussiaSpirit ,13,4
-2026-03-07,Overpass,France3DMAX ,BrazilFURIA ,13,8
-2026-03-07,Dust2,France3DMAX ,BrazilFURIA ,19,16
-2026-03-07,Mirage,EuropeFUT ,SwedenHEROIC ,13,3
-2026-03-07,Ancient,SwedenHEROIC ,EuropeFUT ,13,5
-2026-03-07,Nuke,EuropeFUT ,SwedenHEROIC ,13,3
-2026-03-07,Overpass,EuropeMOUZ ,DenmarkAstralis ,13,3
-2026-03-07,Mirage,EuropeMOUZ ,DenmarkAstralis ,13,1
-2026-03-07,Ancient,DenmarkAstralis ,EuropeMOUZ ,16,14
-2026-03-07,Ancient,EuropeG2 ,EuropeNatus Vincere,13,7
-2026-03-07,Mirage,EuropeG2 ,EuropeNatus Vincere,13,5
-2026-03-07,Dust2,EuropeNatus Vincere,EuropeG2 ,13,7
-2026-03-07,Mirage,BrazilpaiN ,EuropeFaZe ,13,5
-2026-03-07,Dust2,EuropeFaZe ,BrazilpaiN ,16,13
-2026-03-07,Mirage,MongoliaThe MongolZ,TurkeyAurora ,13,11
-2026-03-07,Dust2,MongoliaThe MongolZ,TurkeyAurora ,13,9
-2026-03-07,Nuke,BrazilpaiN ,EuropeFaZe ,16,13
-2026-03-06,Dust2,UkraineB8 ,BrazilFURIA ,13,6
-2026-03-06,Overpass,BrazilFURIA ,UkraineB8 ,13,2
-2026-03-06,Mirage,UkraineB8 ,BrazilFURIA ,13,8
-2026-03-06,Inferno,EuropeMOUZ ,SwedenHEROIC ,13,3
-2026-03-06,Mirage,EuropeMOUZ ,SwedenHEROIC ,13,8
-2026-03-06,Dust2,SwedenHEROIC ,EuropeMOUZ ,13,9
-2026-03-06,Mirage,MongoliaThe MongolZ,BrazilpaiN ,13,9
-2026-03-06,Nuke,MongoliaThe MongolZ,BrazilpaiN ,19,17
-2026-03-06,Ancient,EuropeG2 ,EuropeFaZe ,13,10
-2026-03-06,Dust2,EuropeG2 ,EuropeFaZe ,13,1
-2026-03-06,Overpass,RussiaSpirit ,France3DMAX ,13,7
-2026-03-06,Nuke,RussiaSpirit ,France3DMAX ,13,10
-2026-03-06,Mirage,DenmarkAstralis ,EuropeFUT ,13,3
-2026-03-06,Ancient,DenmarkAstralis ,EuropeFUT ,13,6
-2026-03-05,Dust2,France3DMAX ,OtherLiquid ,13,10
-2026-03-05,Nuke,France3DMAX ,OtherLiquid ,13,5
-2026-03-05,Dust2,SwedenHEROIC ,RussiaPARIVISION ,13,6
-2026-03-05,Inferno,SwedenHEROIC ,RussiaPARIVISION ,13,5
-2026-03-04,Mirage,BrazilpaiN ,EuropeG2 ,16,12
-2026-03-04,Inferno,BrazilpaiN ,EuropeG2 ,16,14
-2026-03-04,Nuke,SwedenHEROIC ,OtherPassion UA,13,8
-2026-03-04,Overpass,SwedenHEROIC ,OtherPassion UA,13,5
-2026-03-04,Overpass,DenmarkAstralis ,France3DMAX ,13,5
-2026-03-04,Dust2,DenmarkAstralis ,France3DMAX ,13,6
-2026-03-03,Mirage,BrazilpaiN ,OtherPassion UA,13,9
-2026-03-03,Overpass,OtherPassion UA,BrazilpaiN ,13,8
-2026-03-03,Inferno,BrazilpaiN ,OtherPassion UA,13,7
-2026-03-03,Mirage,EuropeFUT ,DenmarkAstralis ,13,11
-2026-03-03,Overpass,EuropeFUT ,DenmarkAstralis ,13,3
-2026-03-02,Dust2,EuropeFUT ,OtherPassion UA,13,11
-2026-03-02,Mirage,OtherPassion UA,EuropeFUT ,13,10
-2026-03-02,Anubis,EuropeFUT ,OtherPassion UA,13,7
-2026-03-02,Dust2,RussiaPARIVISION ,BrazilpaiN ,13,11
-2026-03-02,Mirage,RussiaPARIVISION ,BrazilpaiN ,19,15
-2026-03-02,Overpass,DenmarkAstralis ,SwedenHEROIC ,13,10
-2026-03-02,Dust2,DenmarkAstralis ,SwedenHEROIC ,16,13
-2026-03-01,Nuke,OtherPassion UA,OtherLiquid ,19,15
-2026-03-01,Dust2,OtherPassion UA,OtherLiquid ,13,8
-2026-03-01,Inferno,BrazilpaiN ,France3DMAX ,16,14
-2026-03-01,Dust2,France3DMAX ,BrazilpaiN ,13,7
-2026-03-01,Nuke,BrazilpaiN ,France3DMAX ,13,8
-2026-03-01,Nuke,SwedenHEROIC ,United StatesNRG,13,10
-2026-03-01,Inferno,SwedenHEROIC ,United StatesNRG,13,8
-2026-02-22,Inferno,EuropeVitality ,RussiaPARIVISION ,16,13
-2026-02-22,Dust2,EuropeVitality ,RussiaPARIVISION ,13,4
-2026-02-22,Overpass,EuropeVitality ,RussiaPARIVISION ,13,10
-2026-02-22,Inferno,EuropeMOUZ ,MongoliaThe MongolZ,13,10
-2026-02-22,Mirage,EuropeMOUZ ,MongoliaThe MongolZ,13,6
-2026-02-21,Dust2,EuropeVitality ,MongoliaThe MongolZ,13,3
-2026-02-21,Mirage,EuropeVitality ,MongoliaThe MongolZ,16,13
-2026-02-21,Inferno,RussiaPARIVISION ,EuropeMOUZ ,13,10
-2026-02-21,Dust2,RussiaPARIVISION ,EuropeMOUZ ,13,11
-2026-02-21,Nuke,SpainGentle Mates,OtherPassion UA,13,11
-2026-02-21,Overpass,SpainGentle Mates,OtherPassion UA,13,10
-2026-02-20,Nuke,MongoliaThe MongolZ,BrazilFURIA ,13,10
-2026-02-20,Dust2,BrazilFURIA ,MongoliaThe MongolZ,13,10
-2026-02-20,Mirage,MongoliaThe MongolZ,BrazilFURIA ,13,3
-2026-02-20,Overpass,EuropeVitality ,TurkeyAurora ,13,10
-2026-02-20,Inferno,EuropeVitality ,TurkeyAurora ,13,8
-2026-02-20,Mirage,EuropeMOUZ ,EuropeNatus Vincere,13,6
-2026-02-20,Inferno,EuropeMOUZ ,EuropeNatus Vincere,13,4
-2026-02-20,Ancient,EuropeNatus Vincere,EuropeMOUZ ,13,10
-2026-02-20,Ancient,RussiaPARIVISION ,EuropeFalcons ,13,8
-2026-02-20,Mirage,EuropeFalcons ,RussiaPARIVISION ,13,7
-2026-02-20,Dust2,RussiaPARIVISION ,EuropeFalcons ,16,14
-2026-02-18,Ancient,EuropeNatus Vincere,EuropeG2 ,13,9
-2026-02-18,Dust2,EuropeNatus Vincere,EuropeG2 ,13,7
-2026-02-18,Ancient,RussiaPARIVISION ,EuropeFUT ,13,10
-2026-02-18,Mirage,EuropeFUT ,RussiaPARIVISION ,13,10
-2026-02-18,Dust2,RussiaPARIVISION ,EuropeFUT ,19,17
-2026-02-18,Dust2,TurkeyAurora ,DenmarkAstralis ,13,11
-2026-02-18,Overpass,TurkeyAurora ,DenmarkAstralis ,13,7
-2026-02-17,Mirage,BrazilFURIA ,RussiaPARIVISION ,13,8
-2026-02-17,Inferno,RussiaPARIVISION ,BrazilFURIA ,16,14
-2026-02-17,Dust2,BrazilFURIA ,RussiaPARIVISION ,16,14
-2026-02-17,Ancient,EuropeG2 ,SwedenHEROIC ,13,9
-2026-02-17,Mirage,EuropeG2 ,SwedenHEROIC ,13,6
-2026-02-17,Mirage,MongoliaThe MongolZ,EuropeNatus Vincere,13,11
-2026-02-17,Nuke,MongoliaThe MongolZ,EuropeNatus Vincere,13,7
-2026-02-17,Inferno,EuropeNatus Vincere,MongoliaThe MongolZ,13,3
-2026-02-17,Mirage,TurkeyAurora ,UkraineB8 ,16,13
-2026-02-17,Overpass,TurkeyAurora ,UkraineB8 ,13,10
-2026-02-17,Overpass,EuropeMOUZ ,EuropeFUT ,16,14
-2026-02-17,Mirage,EuropeMOUZ ,EuropeFUT ,13,8
-2026-02-17,Mirage,DenmarkAstralis ,EuropeFaZe ,13,9
-2026-02-17,Ancient,DenmarkAstralis ,EuropeFaZe ,13,5
-2026-02-16,Anubis,EuropeFalcons ,BrazilFURIA ,13,11
-2026-02-16,Inferno,EuropeFalcons ,BrazilFURIA ,13,4
-2026-02-16,Mirage,BrazilFURIA ,EuropeFalcons ,16,14
-2026-02-16,Mirage,EuropeG2 ,BrazilpaiN ,13,9
-2026-02-16,Inferno,EuropeG2 ,BrazilpaiN ,13,10
-2026-02-16,Inferno,EuropeVitality ,EuropeMOUZ ,13,8
-2026-02-16,Dust2,EuropeVitality ,EuropeMOUZ ,13,5
-2026-02-16,Inferno,SwedenHEROIC ,France3DMAX ,13,10
-2026-02-16,Nuke,SwedenHEROIC ,France3DMAX ,13,5
-2026-02-16,Nuke,MongoliaThe MongolZ,UkraineB8 ,19,17
-2026-02-16,Mirage,UkraineB8 ,MongoliaThe MongolZ,13,7
-2026-02-16,Ancient,MongoliaThe MongolZ,UkraineB8 ,13,9
-2026-02-16,Mirage,EuropeFUT ,DenmarkAstralis ,13,4
-2026-02-16,Overpass,EuropeFUT ,DenmarkAstralis ,13,7
-2026-02-16,Inferno,EuropeNatus Vincere,TurkeyAurora ,16,12
-2026-02-16,Mirage,TurkeyAurora ,EuropeNatus Vincere,13,9
-2026-02-16,Anubis,EuropeNatus Vincere,TurkeyAurora ,13,9
-2026-02-16,Inferno,RussiaPARIVISION ,EuropeFaZe ,13,9
-2026-02-16,Ancient,RussiaPARIVISION ,EuropeFaZe ,13,11
-2026-02-16,Mirage,EuropeFaZe ,RussiaPARIVISION ,13,2
-2026-02-15,Nuke,EuropeVitality ,MongoliaThe MongolZ,13,4
-2026-02-15,Dust2,EuropeVitality ,MongoliaThe MongolZ,13,4
-2026-02-15,Mirage,MongoliaThe MongolZ,EuropeVitality ,13,10
-2026-02-15,Ancient,UkraineB8 ,SwedenHEROIC ,13,4
-2026-02-15,Nuke,UkraineB8 ,SwedenHEROIC ,13,9
-2026-02-15,Anubis,BrazilFURIA ,EuropeFUT ,13,9
-2026-02-15,Overpass,BrazilFURIA ,EuropeFUT ,22,18
-2026-02-15,Mirage,EuropeFUT ,BrazilFURIA ,13,9
-2026-02-15,Dust2,TurkeyAurora ,BrazilpaiN ,13,4
-2026-02-15,Anubis,TurkeyAurora ,BrazilpaiN ,13,7
-2026-02-15,Nuke,BrazilpaiN ,TurkeyAurora ,13,10
-2026-02-15,Ancient,EuropeFalcons ,EuropeFaZe ,13,4
-2026-02-15,Dust2,EuropeFaZe ,EuropeFalcons ,13,11
-2026-02-15,Anubis,EuropeFalcons ,EuropeFaZe ,13,9
-2026-02-15,Dust2,RussiaPARIVISION ,EuropeG2 ,13,4
-2026-02-15,Inferno,RussiaPARIVISION ,EuropeG2 ,13,8
-2026-02-15,Mirage,EuropeG2 ,RussiaPARIVISION ,13,8
-2026-02-15,Nuke,DenmarkAstralis ,France3DMAX ,13,11
-2026-02-15,Overpass,DenmarkAstralis ,France3DMAX ,13,2
-2026-02-15,Mirage,EuropeMOUZ ,EuropeNatus Vincere,13,7
-2026-02-15,Inferno,EuropeMOUZ ,EuropeNatus Vincere,13,9
-2026-02-14,Inferno,BrazilFURIA ,UkraineB8 ,13,10
-2026-02-14,Mirage,BrazilFURIA ,UkraineB8 ,13,11
-2026-02-14,Dust2,MongoliaThe MongolZ,BrazilpaiN ,13,2
-2026-02-14,Mirage,MongoliaThe MongolZ,BrazilpaiN ,13,1
-2026-02-14,Nuke,BrazilpaiN ,MongoliaThe MongolZ,13,7
-2026-02-14,Anubis,EuropeVitality ,EuropeG2 ,13,8
-2026-02-14,Inferno,EuropeG2 ,EuropeVitality ,13,8
-2026-02-14,Mirage,EuropeVitality ,EuropeG2 ,13,11
-2026-02-14,Dust2,EuropeFalcons ,France3DMAX ,13,10
-2026-02-14,Nuke,EuropeFalcons ,France3DMAX ,13,7
-2026-02-14,Ancient,EuropeFaZe ,SwedenHEROIC ,13,9
-2026-02-14,Overpass,EuropeFaZe ,SwedenHEROIC ,13,5
-2026-02-14,Overpass,EuropeMOUZ ,RussiaPARIVISION ,13,3
-2026-02-14,Inferno,EuropeMOUZ ,RussiaPARIVISION ,13,7
-2026-02-14,Dust2,RussiaPARIVISION ,EuropeMOUZ ,13,7
-2026-02-14,Overpass,EuropeFUT ,TurkeyAurora ,13,6
-2026-02-14,Anubis,TurkeyAurora ,EuropeFUT ,16,13
-2026-02-14,Mirage,EuropeFUT ,TurkeyAurora ,13,6
-2026-02-14,Mirage,EuropeNatus Vincere,DenmarkAstralis ,13,6
-2026-02-14,Nuke,EuropeNatus Vincere,DenmarkAstralis ,13,10
+2026-03-10,Inferno,Astralis,FURIA,13,4
+2026-03-10,Dust2,FURIA,Astralis,13,9
+2026-03-10,Nuke,Astralis,FURIA,13,4
+2026-03-10,Overpass,FUT,G2,13,11
+2026-03-10,Dust2,FUT,G2,13,11
+2026-03-10,Mirage,G2,FUT,13,4
+2026-03-10,Ancient,Natus Vincere,3DMAX,13,5
+2026-03-10,Inferno,3DMAX,Natus Vincere,13,5
+2026-03-10,Dust2,Natus Vincere,3DMAX,13,5
+2026-03-09,Anubis,Aurora,G2,13,11
+2026-03-09,Mirage,Aurora,G2,13,10
+2026-03-09,Dust2,FURIA,paiN,13,8
+2026-03-09,Inferno,FURIA,paiN,13,6
+2026-03-09,Inferno,Astralis,FaZe,16,14
+2026-03-09,Ancient,Astralis,FaZe,13,3
+2026-03-09,Dust2,FaZe,Astralis,13,7
+2026-03-09,Inferno,The MongolZ,3DMAX,13,10
+2026-03-09,Ancient,3DMAX,The MongolZ,13,4
+2026-03-09,Dust2,The MongolZ,3DMAX,13,10
+2026-03-09,Anubis,FUT,B8,13,3
+2026-03-09,Dust2,FUT,B8,13,8
+2026-03-08,Anubis,Spirit,G2,13,10
+2026-03-08,Ancient,Spirit,G2,13,9
+2026-03-08,Inferno,FURIA,HEROIC,13,9
+2026-03-08,Overpass,HEROIC,FURIA,13,3
+2026-03-08,Dust2,FURIA,HEROIC,13,8
+2026-03-08,Overpass,MOUZ,The MongolZ,13,11
+2026-03-08,Ancient,MOUZ,The MongolZ,13,1
+2026-03-08,Inferno,Natus Vincere,B8,13,7
+2026-03-08,Mirage,Natus Vincere,B8,16,14
+2026-03-08,Ancient,3DMAX,FUT,13,11
+2026-03-08,Dust2,3DMAX,FUT,13,5
+2026-03-08,Overpass,Aurora,paiN,13,7
+2026-03-08,Nuke,Aurora,paiN,13,9
+2026-03-07,Anubis,Spirit,B8,13,7
+2026-03-07,Nuke,Spirit,B8,13,9
+2026-03-07,Mirage,B8,Spirit,13,4
+2026-03-07,Overpass,3DMAX,FURIA,13,8
+2026-03-07,Dust2,3DMAX,FURIA,19,16
+2026-03-07,Mirage,FUT,HEROIC,13,3
+2026-03-07,Ancient,HEROIC,FUT,13,5
+2026-03-07,Nuke,FUT,HEROIC,13,3
+2026-03-07,Overpass,MOUZ,Astralis,13,3
+2026-03-07,Mirage,MOUZ,Astralis,13,1
+2026-03-07,Ancient,Astralis,MOUZ,16,14
+2026-03-07,Ancient,G2,Natus Vincere,13,7
+2026-03-07,Mirage,G2,Natus Vincere,13,5
+2026-03-07,Dust2,Natus Vincere,G2,13,7
+2026-03-07,Mirage,paiN,FaZe,13,5
+2026-03-07,Dust2,FaZe,paiN,16,13
+2026-03-07,Mirage,The MongolZ,Aurora,13,11
+2026-03-07,Dust2,The MongolZ,Aurora,13,9
+2026-03-07,Nuke,paiN,FaZe,16,13
+2026-03-06,Dust2,B8,FURIA,13,6
+2026-03-06,Overpass,FURIA,B8,13,2
+2026-03-06,Mirage,B8,FURIA,13,8
+2026-03-06,Inferno,MOUZ,HEROIC,13,3
+2026-03-06,Mirage,MOUZ,HEROIC,13,8
+2026-03-06,Dust2,HEROIC,MOUZ,13,9
+2026-03-06,Mirage,The MongolZ,paiN,13,9
+2026-03-06,Nuke,The MongolZ,paiN,19,17
+2026-03-06,Ancient,G2,FaZe,13,10
+2026-03-06,Dust2,G2,FaZe,13,1
+2026-03-06,Overpass,Spirit,3DMAX,13,7
+2026-03-06,Nuke,Spirit,3DMAX,13,10
+2026-03-06,Mirage,Astralis,FUT,13,3
+2026-03-06,Ancient,Astralis,FUT,13,6
+2026-03-05,Dust2,3DMAX,Liquid,13,10
+2026-03-05,Nuke,3DMAX,Liquid,13,5
+2026-03-05,Dust2,HEROIC,PARIVISION,13,6
+2026-03-05,Inferno,HEROIC,PARIVISION,13,5
+2026-03-04,Mirage,paiN,G2,16,12
+2026-03-04,Inferno,paiN,G2,16,14
+2026-03-04,Nuke,HEROIC,OtherPassion UA,13,8
+2026-03-04,Overpass,HEROIC,OtherPassion UA,13,5
+2026-03-04,Overpass,Astralis,3DMAX,13,5
+2026-03-04,Dust2,Astralis,3DMAX,13,6
+2026-03-03,Mirage,paiN,OtherPassion UA,13,9
+2026-03-03,Overpass,OtherPassion UA,paiN,13,8
+2026-03-03,Inferno,paiN,OtherPassion UA,13,7
+2026-03-03,Mirage,FUT,Astralis,13,11
+2026-03-03,Overpass,FUT,Astralis,13,3
+2026-03-02,Dust2,FUT,OtherPassion UA,13,11
+2026-03-02,Mirage,OtherPassion UA,FUT,13,10
+2026-03-02,Anubis,FUT,OtherPassion UA,13,7
+2026-03-02,Dust2,PARIVISION,paiN,13,11
+2026-03-02,Mirage,PARIVISION,paiN,19,15
+2026-03-02,Overpass,Astralis,HEROIC,13,10
+2026-03-02,Dust2,Astralis,HEROIC,16,13
+2026-03-01,Nuke,OtherPassion UA,Liquid,19,15
+2026-03-01,Dust2,OtherPassion UA,Liquid,13,8
+2026-03-01,Inferno,paiN,3DMAX,16,14
+2026-03-01,Dust2,3DMAX,paiN,13,7
+2026-03-01,Nuke,paiN,3DMAX,13,8
+2026-03-01,Nuke,HEROIC,United StatesNRG,13,10
+2026-03-01,Inferno,HEROIC,United StatesNRG,13,8
+2026-02-22,Inferno,Vitality,PARIVISION,16,13
+2026-02-22,Dust2,Vitality,PARIVISION,13,4
+2026-02-22,Overpass,Vitality,PARIVISION,13,10
+2026-02-22,Inferno,MOUZ,The MongolZ,13,10
+2026-02-22,Mirage,MOUZ,The MongolZ,13,6
+2026-02-21,Dust2,Vitality,The MongolZ,13,3
+2026-02-21,Mirage,Vitality,The MongolZ,16,13
+2026-02-21,Inferno,PARIVISION,MOUZ,13,10
+2026-02-21,Dust2,PARIVISION,MOUZ,13,11
+2026-02-21,Nuke,Gentle Mates,OtherPassion UA,13,11
+2026-02-21,Overpass,Gentle Mates,OtherPassion UA,13,10
+2026-02-20,Nuke,The MongolZ,FURIA,13,10
+2026-02-20,Dust2,FURIA,The MongolZ,13,10
+2026-02-20,Mirage,The MongolZ,FURIA,13,3
+2026-02-20,Overpass,Vitality,Aurora,13,10
+2026-02-20,Inferno,Vitality,Aurora,13,8
+2026-02-20,Mirage,MOUZ,Natus Vincere,13,6
+2026-02-20,Inferno,MOUZ,Natus Vincere,13,4
+2026-02-20,Ancient,Natus Vincere,MOUZ,13,10
+2026-02-20,Ancient,PARIVISION,Falcons,13,8
+2026-02-20,Mirage,Falcons,PARIVISION,13,7
+2026-02-20,Dust2,PARIVISION,Falcons,16,14
+2026-02-18,Ancient,Natus Vincere,G2,13,9
+2026-02-18,Dust2,Natus Vincere,G2,13,7
+2026-02-18,Ancient,PARIVISION,FUT,13,10
+2026-02-18,Mirage,FUT,PARIVISION,13,10
+2026-02-18,Dust2,PARIVISION,FUT,19,17
+2026-02-18,Dust2,Aurora,Astralis,13,11
+2026-02-18,Overpass,Aurora,Astralis,13,7
+2026-02-17,Mirage,FURIA,PARIVISION,13,8
+2026-02-17,Inferno,PARIVISION,FURIA,16,14
+2026-02-17,Dust2,FURIA,PARIVISION,16,14
+2026-02-17,Ancient,G2,HEROIC,13,9
+2026-02-17,Mirage,G2,HEROIC,13,6
+2026-02-17,Mirage,The MongolZ,Natus Vincere,13,11
+2026-02-17,Nuke,The MongolZ,Natus Vincere,13,7
+2026-02-17,Inferno,Natus Vincere,The MongolZ,13,3
+2026-02-17,Mirage,Aurora,B8,16,13
+2026-02-17,Overpass,Aurora,B8,13,10
+2026-02-17,Overpass,MOUZ,FUT,16,14
+2026-02-17,Mirage,MOUZ,FUT,13,8
+2026-02-17,Mirage,Astralis,FaZe,13,9
+2026-02-17,Ancient,Astralis,FaZe,13,5
+2026-02-16,Anubis,Falcons,FURIA,13,11
+2026-02-16,Inferno,Falcons,FURIA,13,4
+2026-02-16,Mirage,FURIA,Falcons,16,14
+2026-02-16,Mirage,G2,paiN,13,9
+2026-02-16,Inferno,G2,paiN,13,10
+2026-02-16,Inferno,Vitality,MOUZ,13,8
+2026-02-16,Dust2,Vitality,MOUZ,13,5
+2026-02-16,Inferno,HEROIC,3DMAX,13,10
+2026-02-16,Nuke,HEROIC,3DMAX,13,5
+2026-02-16,Nuke,The MongolZ,B8,19,17
+2026-02-16,Mirage,B8,The MongolZ,13,7
+2026-02-16,Ancient,The MongolZ,B8,13,9
+2026-02-16,Mirage,FUT,Astralis,13,4
+2026-02-16,Overpass,FUT,Astralis,13,7
+2026-02-16,Inferno,Natus Vincere,Aurora,16,12
+2026-02-16,Mirage,Aurora,Natus Vincere,13,9
+2026-02-16,Anubis,Natus Vincere,Aurora,13,9
+2026-02-16,Inferno,PARIVISION,FaZe,13,9
+2026-02-16,Ancient,PARIVISION,FaZe,13,11
+2026-02-16,Mirage,FaZe,PARIVISION,13,2
+2026-02-15,Nuke,Vitality,The MongolZ,13,4
+2026-02-15,Dust2,Vitality,The MongolZ,13,4
+2026-02-15,Mirage,The MongolZ,Vitality,13,10
+2026-02-15,Ancient,B8,HEROIC,13,4
+2026-02-15,Nuke,B8,HEROIC,13,9
+2026-02-15,Anubis,FURIA,FUT,13,9
+2026-02-15,Overpass,FURIA,FUT,22,18
+2026-02-15,Mirage,FUT,FURIA,13,9
+2026-02-15,Dust2,Aurora,paiN,13,4
+2026-02-15,Anubis,Aurora,paiN,13,7
+2026-02-15,Nuke,paiN,Aurora,13,10
+2026-02-15,Ancient,Falcons,FaZe,13,4
+2026-02-15,Dust2,FaZe,Falcons,13,11
+2026-02-15,Anubis,Falcons,FaZe,13,9
+2026-02-15,Dust2,PARIVISION,G2,13,4
+2026-02-15,Inferno,PARIVISION,G2,13,8
+2026-02-15,Mirage,G2,PARIVISION,13,8
+2026-02-15,Nuke,Astralis,3DMAX,13,11
+2026-02-15,Overpass,Astralis,3DMAX,13,2
+2026-02-15,Mirage,MOUZ,Natus Vincere,13,7
+2026-02-15,Inferno,MOUZ,Natus Vincere,13,9
+2026-02-14,Inferno,FURIA,B8,13,10
+2026-02-14,Mirage,FURIA,B8,13,11
+2026-02-14,Dust2,The MongolZ,paiN,13,2
+2026-02-14,Mirage,The MongolZ,paiN,13,1
+2026-02-14,Nuke,paiN,The MongolZ,13,7
+2026-02-14,Anubis,Vitality,G2,13,8
+2026-02-14,Inferno,G2,Vitality,13,8
+2026-02-14,Mirage,Vitality,G2,13,11
+2026-02-14,Dust2,Falcons,3DMAX,13,10
+2026-02-14,Nuke,Falcons,3DMAX,13,7
+2026-02-14,Ancient,FaZe,HEROIC,13,9
+2026-02-14,Overpass,FaZe,HEROIC,13,5
+2026-02-14,Overpass,MOUZ,PARIVISION,13,3
+2026-02-14,Inferno,MOUZ,PARIVISION,13,7
+2026-02-14,Dust2,PARIVISION,MOUZ,13,7
+2026-02-14,Overpass,FUT,Aurora,13,6
+2026-02-14,Anubis,Aurora,FUT,16,13
+2026-02-14,Mirage,FUT,Aurora,13,6
+2026-02-14,Mirage,Natus Vincere,Astralis,13,6
+2026-02-14,Nuke,Natus Vincere,Astralis,13,10
 2026-02-08,Mirage,United StatesNRG,OtherPassion UA,13,7
 2026-02-08,Nuke,United StatesNRG,OtherPassion UA,13,3
-2026-02-08,Overpass,EuropeVitality ,BrazilFURIA ,13,10
-2026-02-08,Nuke,EuropeVitality ,BrazilFURIA ,13,2
-2026-02-08,Inferno,EuropeVitality ,BrazilFURIA ,13,8
-2026-02-08,Mirage,BrazilFURIA ,EuropeVitality ,13,11
-2026-02-08,Mirage,RussiaSpirit ,EuropeMOUZ ,13,3
-2026-02-08,Dust2,RussiaSpirit ,EuropeMOUZ ,13,8
+2026-02-08,Overpass,Vitality,FURIA,13,10
+2026-02-08,Nuke,Vitality,FURIA,13,2
+2026-02-08,Inferno,Vitality,FURIA,13,8
+2026-02-08,Mirage,FURIA,Vitality,13,11
+2026-02-08,Mirage,Spirit,MOUZ,13,3
+2026-02-08,Dust2,Spirit,MOUZ,13,8
 2026-02-07,Inferno,OtherPassion UA,United StatesM80,13,5
 2026-02-07,Mirage,United StatesM80,OtherPassion UA,13,11
 2026-02-07,Overpass,OtherPassion UA,United StatesM80,13,11
-2026-02-07,Dust2,EuropeVitality ,EuropeMOUZ ,13,6
-2026-02-07,Nuke,EuropeVitality ,EuropeMOUZ ,13,7
-2026-02-07,Nuke,BrazilFURIA ,RussiaSpirit ,13,7
-2026-02-07,Dust2,RussiaSpirit ,BrazilFURIA ,13,8
-2026-02-07,Mirage,BrazilFURIA ,RussiaSpirit ,16,13
-2026-02-06,Dust2,EuropeMOUZ ,EuropeG2 ,13,7
-2026-02-06,Overpass,EuropeMOUZ ,EuropeG2 ,16,13
-2026-02-06,Mirage,BrazilFURIA ,TurkeyAurora ,13,4
-2026-02-06,Dust2,BrazilFURIA ,TurkeyAurora ,13,7
-2026-02-03,Dust2,EuropeMOUZ ,EuropeFalcons ,19,17
-2026-02-03,Inferno,EuropeMOUZ ,EuropeFalcons ,16,14
-2026-02-03,Overpass,EuropeVitality ,TurkeyAurora ,13,7
-2026-02-03,Ancient,EuropeVitality ,TurkeyAurora ,25,22
-2026-02-03,Dust2,RussiaSpirit ,EuropeG2 ,16,13
-2026-02-03,Overpass,EuropeG2 ,RussiaSpirit ,13,8
-2026-02-03,Anubis,RussiaSpirit ,EuropeG2 ,13,8
-2026-02-03,Nuke,BrazilFURIA ,DenmarkAstralis ,13,9
-2026-02-03,Mirage,BrazilFURIA ,DenmarkAstralis ,13,11
-2026-02-03,Overpass,DenmarkAstralis ,BrazilFURIA ,13,8
-2026-02-03,Inferno,EuropeMOUZ ,EuropeFaZe ,13,6
-2026-02-03,Mirage,EuropeMOUZ ,EuropeFaZe ,13,5
-2026-02-03,Dust2,EuropeFalcons ,France3DMAX ,13,9
-2026-02-03,Anubis,EuropeFalcons ,France3DMAX ,13,5
-2026-02-02,Nuke,DenmarkAstralis ,EuropeFUT ,13,2
-2026-02-02,Overpass,DenmarkAstralis ,EuropeFUT ,13,11
-2026-02-02,Mirage,EuropeFUT ,DenmarkAstralis ,13,7
-2026-02-02,Dust2,BrazilFURIA ,EuropeNatus Vincere,13,6
-2026-02-02,Inferno,EuropeNatus Vincere,BrazilFURIA ,13,9
-2026-02-02,Mirage,BrazilFURIA ,EuropeNatus Vincere,13,7
-2026-02-02,Dust2,EuropeFalcons ,United StatesNRG,13,9
-2026-02-02,Ancient,United StatesNRG,EuropeFalcons ,13,11
-2026-02-02,Inferno,EuropeFalcons ,United StatesNRG,13,5
-2026-02-02,Inferno,TurkeyAurora ,EuropeMOUZ ,13,9
-2026-02-02,Dust2,TurkeyAurora ,EuropeMOUZ ,13,7
-2026-02-02,Dust2,EuropeVitality ,France3DMAX ,13,6
-2026-02-02,Inferno,EuropeVitality ,France3DMAX ,13,6
-2026-02-01,Dust2,RussiaSpirit ,EuropeNatus Vincere,13,3
-2026-02-01,Mirage,RussiaSpirit ,EuropeNatus Vincere,16,14
-2026-02-01,Ancient,DenmarkAstralis ,RussiaPARIVISION ,13,7
-2026-02-01,Dust2,RussiaPARIVISION ,DenmarkAstralis ,16,13
-2026-02-01,Overpass,DenmarkAstralis ,RussiaPARIVISION ,13,11
-2026-02-01,Nuke,BrazilFURIA ,MongoliaThe MongolZ,13,2
-2026-02-01,Inferno,BrazilFURIA ,MongoliaThe MongolZ,16,12
-2026-02-01,Mirage,MongoliaThe MongolZ,BrazilFURIA ,13,11
-2026-02-01,Ancient,EuropeG2 ,EuropeFUT ,13,9
-2026-02-01,Dust2,EuropeG2 ,EuropeFUT ,13,9
-2026-02-01,Mirage,EuropeFUT ,EuropeG2 ,13,9
-2026-02-01,Inferno,TurkeyAurora ,EuropeFalcons ,13,8
-2026-02-01,Mirage,EuropeFalcons ,TurkeyAurora ,13,10
-2026-02-01,Anubis,TurkeyAurora ,EuropeFalcons ,13,7
-2026-02-01,Ancient,EuropeMOUZ ,United StatesNRG,13,9
-2026-02-01,Dust2,EuropeMOUZ ,United StatesNRG,13,9
-2026-01-31,Nuke,France3DMAX ,EuropeFaZe ,13,2
-2026-01-31,Inferno,France3DMAX ,EuropeFaZe ,13,7
-2026-01-31,Overpass,RussiaSpirit ,DenmarkAstralis ,13,8
-2026-01-31,Dust2,RussiaSpirit ,DenmarkAstralis ,16,13
-2026-01-31,Dust2,EuropeFUT ,BrazilFURIA ,13,6
-2026-01-31,Mirage,EuropeFUT ,BrazilFURIA ,13,11
-2026-01-31,Ancient,EuropeNatus Vincere,RussiaPARIVISION ,13,5
-2026-01-31,Anubis,RussiaPARIVISION ,EuropeNatus Vincere,19,16
-2026-01-31,Dust2,EuropeNatus Vincere,RussiaPARIVISION ,13,11
-2026-01-31,Ancient,EuropeG2 ,MongoliaThe MongolZ,13,11
-2026-01-31,Dust2,EuropeG2 ,MongoliaThe MongolZ,13,2
-2026-01-30,Nuke,EuropeFUT ,EuropeLiquid ,13,9
-2026-01-30,Ancient,EuropeFUT ,EuropeLiquid ,13,4
-2026-01-30,Overpass,DenmarkAstralis ,EuropeGamerLegion ,13,2
-2026-01-30,Inferno,DenmarkAstralis ,EuropeGamerLegion ,13,5
-2026-01-30,Overpass,TurkeyAurora ,BrazilpaiN ,13,6
-2026-01-30,Mirage,TurkeyAurora ,BrazilpaiN ,13,7
-2026-01-30,Inferno,United StatesNRG,DenmarkAstralis ,13,7
-2026-01-30,Overpass,DenmarkAstralis ,United StatesNRG,13,5
-2026-01-30,Mirage,United StatesNRG,DenmarkAstralis ,16,14
-2026-01-30,Mirage,EuropeGamerLegion ,SwedenHEROIC ,13,8
-2026-01-30,Overpass,EuropeGamerLegion ,SwedenHEROIC ,13,7
-2026-01-29,Ancient,EuropeFUT ,BrazilLegacy ,13,10
-2026-01-29,Dust2,EuropeFUT ,BrazilLegacy ,13,7
-2026-01-29,Anubis,EuropeG2 ,EuropeLiquid ,16,14
-2026-01-29,Inferno,EuropeLiquid ,EuropeG2 ,13,6
-2026-01-29,Mirage,EuropeG2 ,EuropeLiquid ,13,8
-2026-01-29,Dust2,RussiaPARIVISION ,TurkeyAurora ,13,4
-2026-01-29,Anubis,TurkeyAurora ,RussiaPARIVISION ,13,5
-2026-01-29,Mirage,RussiaPARIVISION ,TurkeyAurora ,13,5
-2026-01-29,Mirage,BrazilpaiN ,UkraineB8 ,13,10
-2026-01-29,Dust2,BrazilpaiN ,UkraineB8 ,16,12
-2026-01-28,Mirage,EuropeG2 ,OtherPassion UA,13,3
-2026-01-28,Dust2,EuropeG2 ,OtherPassion UA,13,6
-2026-01-28,Overpass,OtherPassion UA,EuropeG2 ,13,8
-2026-01-28,Dust2,France3DMAX ,EuropeFUT ,13,5
-2026-01-28,Anubis,France3DMAX ,EuropeFUT ,16,13
-2026-01-28,Ancient,EuropeFUT ,France3DMAX ,16,13
+2026-02-07,Dust2,Vitality,MOUZ,13,6
+2026-02-07,Nuke,Vitality,MOUZ,13,7
+2026-02-07,Nuke,FURIA,Spirit,13,7
+2026-02-07,Dust2,Spirit,FURIA,13,8
+2026-02-07,Mirage,FURIA,Spirit,16,13
+2026-02-06,Dust2,MOUZ,G2,13,7
+2026-02-06,Overpass,MOUZ,G2,16,13
+2026-02-06,Mirage,FURIA,Aurora,13,4
+2026-02-06,Dust2,FURIA,Aurora,13,7
+2026-02-03,Dust2,MOUZ,Falcons,19,17
+2026-02-03,Inferno,MOUZ,Falcons,16,14
+2026-02-03,Overpass,Vitality,Aurora,13,7
+2026-02-03,Ancient,Vitality,Aurora,25,22
+2026-02-03,Dust2,Spirit,G2,16,13
+2026-02-03,Overpass,G2,Spirit,13,8
+2026-02-03,Anubis,Spirit,G2,13,8
+2026-02-03,Nuke,FURIA,Astralis,13,9
+2026-02-03,Mirage,FURIA,Astralis,13,11
+2026-02-03,Overpass,Astralis,FURIA,13,8
+2026-02-03,Inferno,MOUZ,FaZe,13,6
+2026-02-03,Mirage,MOUZ,FaZe,13,5
+2026-02-03,Dust2,Falcons,3DMAX,13,9
+2026-02-03,Anubis,Falcons,3DMAX,13,5
+2026-02-02,Nuke,Astralis,FUT,13,2
+2026-02-02,Overpass,Astralis,FUT,13,11
+2026-02-02,Mirage,FUT,Astralis,13,7
+2026-02-02,Dust2,FURIA,Natus Vincere,13,6
+2026-02-02,Inferno,Natus Vincere,FURIA,13,9
+2026-02-02,Mirage,FURIA,Natus Vincere,13,7
+2026-02-02,Dust2,Falcons,United StatesNRG,13,9
+2026-02-02,Ancient,United StatesNRG,Falcons,13,11
+2026-02-02,Inferno,Falcons,United StatesNRG,13,5
+2026-02-02,Inferno,Aurora,MOUZ,13,9
+2026-02-02,Dust2,Aurora,MOUZ,13,7
+2026-02-02,Dust2,Vitality,3DMAX,13,6
+2026-02-02,Inferno,Vitality,3DMAX,13,6
+2026-02-01,Dust2,Spirit,Natus Vincere,13,3
+2026-02-01,Mirage,Spirit,Natus Vincere,16,14
+2026-02-01,Ancient,Astralis,PARIVISION,13,7
+2026-02-01,Dust2,PARIVISION,Astralis,16,13
+2026-02-01,Overpass,Astralis,PARIVISION,13,11
+2026-02-01,Nuke,FURIA,The MongolZ,13,2
+2026-02-01,Inferno,FURIA,The MongolZ,16,12
+2026-02-01,Mirage,The MongolZ,FURIA,13,11
+2026-02-01,Ancient,G2,FUT,13,9
+2026-02-01,Dust2,G2,FUT,13,9
+2026-02-01,Mirage,FUT,G2,13,9
+2026-02-01,Inferno,Aurora,Falcons,13,8
+2026-02-01,Mirage,Falcons,Aurora,13,10
+2026-02-01,Anubis,Aurora,Falcons,13,7
+2026-02-01,Ancient,MOUZ,United StatesNRG,13,9
+2026-02-01,Dust2,MOUZ,United StatesNRG,13,9
+2026-01-31,Nuke,3DMAX,FaZe,13,2
+2026-01-31,Inferno,3DMAX,FaZe,13,7
+2026-01-31,Overpass,Spirit,Astralis,13,8
+2026-01-31,Dust2,Spirit,Astralis,16,13
+2026-01-31,Dust2,FUT,FURIA,13,6
+2026-01-31,Mirage,FUT,FURIA,13,11
+2026-01-31,Ancient,Natus Vincere,PARIVISION,13,5
+2026-01-31,Anubis,PARIVISION,Natus Vincere,19,16
+2026-01-31,Dust2,Natus Vincere,PARIVISION,13,11
+2026-01-31,Ancient,G2,The MongolZ,13,11
+2026-01-31,Dust2,G2,The MongolZ,13,2
+2026-01-30,Nuke,FUT,Liquid,13,9
+2026-01-30,Ancient,FUT,Liquid,13,4
+2026-01-30,Overpass,Astralis,GamerLegion,13,2
+2026-01-30,Inferno,Astralis,GamerLegion,13,5
+2026-01-30,Overpass,Aurora,paiN,13,6
+2026-01-30,Mirage,Aurora,paiN,13,7
+2026-01-30,Inferno,United StatesNRG,Astralis,13,7
+2026-01-30,Overpass,Astralis,United StatesNRG,13,5
+2026-01-30,Mirage,United StatesNRG,Astralis,16,14
+2026-01-30,Mirage,GamerLegion,HEROIC,13,8
+2026-01-30,Overpass,GamerLegion,HEROIC,13,7
+2026-01-29,Ancient,FUT,BrazilLegacy ,13,10
+2026-01-29,Dust2,FUT,BrazilLegacy ,13,7
+2026-01-29,Anubis,G2,Liquid,16,14
+2026-01-29,Inferno,Liquid,G2,13,6
+2026-01-29,Mirage,G2,Liquid,13,8
+2026-01-29,Dust2,PARIVISION,Aurora,13,4
+2026-01-29,Anubis,Aurora,PARIVISION,13,5
+2026-01-29,Mirage,PARIVISION,Aurora,13,5
+2026-01-29,Mirage,paiN,B8,13,10
+2026-01-29,Dust2,paiN,B8,16,12
+2026-01-28,Mirage,G2,OtherPassion UA,13,3
+2026-01-28,Dust2,G2,OtherPassion UA,13,6
+2026-01-28,Overpass,OtherPassion UA,G2,13,8
+2026-01-28,Dust2,3DMAX,FUT,13,5
+2026-01-28,Anubis,3DMAX,FUT,16,13
+2026-01-28,Ancient,FUT,3DMAX,16,13
 2026-01-28,Inferno,PortugalBC.Game,BrazilLegacy ,13,1
 2026-01-28,Overpass,PortugalBC.Game,BrazilLegacy ,16,13
-2026-01-28,Inferno,United StatesNRG,UkraineB8 ,13,11
-2026-01-28,Mirage,United StatesNRG,UkraineB8 ,13,2
-2026-01-28,Dust2,UkraineB8 ,United StatesNRG,13,4
-2026-01-28,Overpass,DenmarkAstralis ,BrazilpaiN ,13,7
-2026-01-28,Dust2,DenmarkAstralis ,BrazilpaiN ,13,10
-2026-01-28,Ancient,RussiaPARIVISION ,SwedenHEROIC ,13,6
-2026-01-28,Dust2,SwedenHEROIC ,RussiaPARIVISION ,13,6
-2026-01-28,Inferno,RussiaPARIVISION ,SwedenHEROIC ,13,6
-2026-01-28,Dust2,TurkeyAurora ,EuropeGamerLegion ,13,7
-2026-01-28,Nuke,TurkeyAurora ,EuropeGamerLegion ,13,5
-2026-01-25,Inferno,RussiaPARIVISION ,EuropeFalcons ,13,11
-2026-01-25,Dust2,RussiaPARIVISION ,EuropeFalcons ,13,11
-2026-01-25,Mirage,RussiaPARIVISION ,EuropeFalcons ,13,9
-2026-01-24,Inferno,RussiaPARIVISION ,BrazilFURIA ,13,11
-2026-01-24,Mirage,RussiaPARIVISION ,BrazilFURIA ,13,8
-2026-01-24,Mirage,EuropeFalcons ,EuropeVitality ,13,6
-2026-01-24,Anubis,EuropeVitality ,EuropeFalcons ,13,4
-2026-01-24,Inferno,EuropeFalcons ,EuropeVitality ,13,10
-2026-01-23,Ancient,RussiaPARIVISION ,RussiaSpirit ,13,8
-2026-01-23,Mirage,RussiaPARIVISION ,RussiaSpirit ,13,9
-2026-01-23,Overpass,RussiaSpirit ,RussiaPARIVISION ,13,5
-2026-01-23,Dust2,EuropeVitality ,EuropeGamerLegion ,13,11
-2026-01-23,Inferno,EuropeVitality ,EuropeGamerLegion ,13,9
-2026-01-22,Nuke,BrazilFURIA ,SwedenHEROIC ,13,9
-2026-01-22,Dust2,BrazilFURIA ,SwedenHEROIC ,13,2
-2026-01-22,Mirage,SwedenHEROIC ,BrazilFURIA ,13,3
-2026-01-22,Dust2,EuropeFalcons ,OtherLiquid ,13,8
-2026-01-22,Nuke,EuropeFalcons ,OtherLiquid ,16,14
-2026-01-18,Dust2,BrazilFURIA ,EuropeFUT ,13,11
-2026-01-18,Overpass,EuropeFUT ,BrazilFURIA ,13,5
-2026-01-18,Anubis,BrazilFURIA ,EuropeFUT ,13,10
-2026-01-18,Ancient,RussiaPARIVISION ,DenmarkAstralis ,13,8
-2026-01-18,Dust2,RussiaPARIVISION ,DenmarkAstralis ,13,1
-2026-01-17,Mirage,EuropeGamerLegion ,TurkeyAurora ,13,5
-2026-01-17,Dust2,TurkeyAurora ,EuropeGamerLegion ,13,10
-2026-01-17,Inferno,EuropeGamerLegion ,TurkeyAurora ,16,13
-2026-01-17,Mirage,SwedenHEROIC ,BrazilpaiN ,16,14
-2026-01-17,Nuke,SwedenHEROIC ,BrazilpaiN ,13,6
-2026-01-14,Inferno,EuropeGamerLegion ,OtherPassion UA,13,10
-2026-01-14,Mirage,EuropeGamerLegion ,OtherPassion UA,13,7
-2026-01-14,Dust2,OtherPassion UA,EuropeGamerLegion ,13,4
+2026-01-28,Inferno,United StatesNRG,B8,13,11
+2026-01-28,Mirage,United StatesNRG,B8,13,2
+2026-01-28,Dust2,B8,United StatesNRG,13,4
+2026-01-28,Overpass,Astralis,paiN,13,7
+2026-01-28,Dust2,Astralis,paiN,13,10
+2026-01-28,Ancient,PARIVISION,HEROIC,13,6
+2026-01-28,Dust2,HEROIC,PARIVISION,13,6
+2026-01-28,Inferno,PARIVISION,HEROIC,13,6
+2026-01-28,Dust2,Aurora,GamerLegion,13,7
+2026-01-28,Nuke,Aurora,GamerLegion,13,5
+2026-01-25,Inferno,PARIVISION,Falcons,13,11
+2026-01-25,Dust2,PARIVISION,Falcons,13,11
+2026-01-25,Mirage,PARIVISION,Falcons,13,9
+2026-01-24,Inferno,PARIVISION,FURIA,13,11
+2026-01-24,Mirage,PARIVISION,FURIA,13,8
+2026-01-24,Mirage,Falcons,Vitality,13,6
+2026-01-24,Anubis,Vitality,Falcons,13,4
+2026-01-24,Inferno,Falcons,Vitality,13,10
+2026-01-23,Ancient,PARIVISION,Spirit,13,8
+2026-01-23,Mirage,PARIVISION,Spirit,13,9
+2026-01-23,Overpass,Spirit,PARIVISION,13,5
+2026-01-23,Dust2,Vitality,GamerLegion,13,11
+2026-01-23,Inferno,Vitality,GamerLegion,13,9
+2026-01-22,Nuke,FURIA,HEROIC,13,9
+2026-01-22,Dust2,FURIA,HEROIC,13,2
+2026-01-22,Mirage,HEROIC,FURIA,13,3
+2026-01-22,Dust2,Falcons,Liquid,13,8
+2026-01-22,Nuke,Falcons,Liquid,16,14
+2026-01-18,Dust2,FURIA,FUT,13,11
+2026-01-18,Overpass,FUT,FURIA,13,5
+2026-01-18,Anubis,FURIA,FUT,13,10
+2026-01-18,Ancient,PARIVISION,Astralis,13,8
+2026-01-18,Dust2,PARIVISION,Astralis,13,1
+2026-01-17,Mirage,GamerLegion,Aurora,13,5
+2026-01-17,Dust2,Aurora,GamerLegion,13,10
+2026-01-17,Inferno,GamerLegion,Aurora,16,13
+2026-01-17,Mirage,HEROIC,paiN,16,14
+2026-01-17,Nuke,HEROIC,paiN,13,6
+2026-01-14,Inferno,GamerLegion,OtherPassion UA,13,10
+2026-01-14,Mirage,GamerLegion,OtherPassion UA,13,7
+2026-01-14,Dust2,OtherPassion UA,GamerLegion,13,4
 2026-01-12,Dust2,United StatesM80,United StatesNRG,13,1
 2026-01-12,Mirage,United StatesM80,United StatesNRG,13,10
-2026-01-04,Inferno,EuropeGamerLegion ,United StatesM80,13,11
-2026-01-04,Mirage,EuropeGamerLegion ,United StatesM80,13,9
-2026-01-04,Inferno,United StatesNRG,EuropeGamerLegion ,13,11
-2026-01-04,Dust2,United StatesNRG,EuropeGamerLegion ,13,4
+2026-01-04,Inferno,GamerLegion,United StatesM80,13,11
+2026-01-04,Mirage,GamerLegion,United StatesM80,13,9
+2026-01-04,Inferno,United StatesNRG,GamerLegion,13,11
+2026-01-04,Dust2,United StatesNRG,GamerLegion,13,4

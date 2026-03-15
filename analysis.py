@@ -1,8 +1,16 @@
-import pandas as pd
+import math
+from itertools import combinations
 from pprint import pprint as pp
 
+import pandas as pd
 
-class Analyser:
+
+class MatchupAnalyser:
+
+    def __init__(self, team_a, team_b):
+        self.team_a = team_a
+        self.team_b = team_b
+
     @property
     def elo_df(self):
         return pd.read_csv('config/elo.csv', index_col='team_name')
@@ -14,23 +22,48 @@ class Analyser:
             print(f'{i + 1}) {team} ({df_dict[map_name].round(2)})')
 
     # the more positive, more in favour of team_a
-    def elo_diff(self, team_a, team_b):
-        team_a_elos = dict(self.elo_df.loc[team_a])
-        team_b_elos = dict(self.elo_df.loc[team_b])
-        elo_diff = {map_name: float(team_a_elos[map_name]) - float(team_b_elos[map_name]) for map_name in self.elo_df.columns}
-        return [[map_name, elo] for map_name, elo in sorted(elo_diff.items(), key=lambda item: item[1], reverse=True)]
+    @property
+    def map_win_odds(self):
+        team_a_elos = dict(self.elo_df.loc[self.team_a])
+        team_b_elos = dict(self.elo_df.loc[self.team_b])
+        elo_difference = [[map_name, elo - team_b_elos[map_name]] for map_name, elo in team_a_elos.items()]
+        sorted_elo_diff = sorted(elo_difference, key=lambda item: item[1], reverse=True)
+        return {map_name: self.elo_to_map_win_odds(float(elo)) for map_name, elo in sorted_elo_diff}
 
-    def veto_predictor(self, team_a, team_b):
-        elo_diff = self.elo_diff(team_a, team_b)
-        print(f'{team_a} bans {elo_diff[6][0]} (Diff: {elo_diff[6][1]})')
-        print(f'{team_b} bans {elo_diff[0][0]} (Diff: {elo_diff[0][1]})')
-        print(f'{team_a} picks {elo_diff[1][0]} (Diff: {elo_diff[1][1]})')
-        print(f'{team_b} picks {elo_diff[5][0]} (Diff: {elo_diff[5][1]})')
-        print(f'{team_a} bans {elo_diff[4][0]} (Diff: {elo_diff[4][1]})')
-        print(f'{team_b} bans {elo_diff[2][0]} (Diff: {elo_diff[2][1]})')
-        print(f'{elo_diff[3][0]} remaining (Diff: {elo_diff[3][1]})')
+    def map_win_percentages(self):
+        for map_name, elo in self.map_win_odds.items():
+            print(f'{self.team_a} has a {elo*100:.2f}% of winning {map_name}')
+
+    def elo_to_map_win_odds(self, map_elo_diff):
+        map_elo_diff = min(map_elo_diff, 5)
+        map_elo_diff = max(map_elo_diff, -5)
+        return (map_elo_diff + 5)/10
+
+    def match_win_odds(self, map_names):
+        restricted_odds_list = {map_name: odds for map_name, odds in self.map_win_odds.items() if map_name in map_names}
+        required_wins = math.ceil(len(map_names)/2) if len(map_names)%2 != 0 else math.ceil(len(map_names)/2) + 1
+        index_combinations = [combinations(map_names, games) for games in range(required_wins)]
+        seperated_chance_combinations = [index for index_combination in index_combinations for index in index_combination]
+        total_list = []
+        for chance_combination in seperated_chance_combinations:
+            odds_list = [ ]
+            for map_name, odds in restricted_odds_list.items():
+                new_odds = 1 - odds if map_name in chance_combination else odds
+                odds_list.append(new_odds)
+            total_list.append(odds_list)
+        win_chance = sum([math.prod(combination) for combination in total_list])
+        print(f"The chance of {self.team_a} winning the game is {win_chance*100:.2f}%")
 
 def execute():
-    pp(Analyser().elo_diff('EuropeVitality ', 'EuropeMOUZ '))
+    analyser = MatchupAnalyser('Natus Vincere', 'Aurora')
+    analyser.match_win_odds([
+        'Mirage',
+        'Dust2',
+        'Nuke',
+        'Inferno',
+        'Anubis'
+    ])
+    analyser.map_win_percentages()
 
-execute()
+if __name__ == '__main__':
+    execute()
