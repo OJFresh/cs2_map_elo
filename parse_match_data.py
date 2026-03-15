@@ -45,6 +45,7 @@ def create_matches_database():
     df = pd.DataFrame(matches_dict)
     df.to_csv('config/match_data.csv', index=False)
 
+
 def parse_match(match_lines):
     match_date, teams_scores, map_name, event_name = [line.replace('\n', '') for line in match_lines]
     day, month, year = match_date.split('/')
@@ -53,6 +54,7 @@ def parse_match(match_lines):
     if int(filtered_team_scores[1]) < int(filtered_team_scores[3]):
         filtered_team_scores = filtered_team_scores[2:4] + filtered_team_scores[:2]
     return [game_date] + filtered_team_scores + [map_name, event_name]
+
 
 def build_empty_elo_df():
     matches = pd.read_csv('config/match_data.csv')
